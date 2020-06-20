@@ -23,3 +23,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 19. Lose HP when hit with object and decrease HP bar
 20. Lose when HP reaches 0
 21. Pause game on key press
+22. NPC following path
+23. Restart level on key press
+24. Main Menu
