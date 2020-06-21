@@ -43,3 +43,4 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 39. Change scene on key press
 40. Game over screen (restart button)
 41. Bounce object off wall
+42. Scalable UI for Different screen sizes
