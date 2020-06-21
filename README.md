@@ -39,4 +39,5 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 35. Upgrade Shop
 36. Buy Upgrade with money
 37. Change damage for weapons
-38. 
+38. Mute music on key press
+39. Change scene on key press
