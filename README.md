@@ -13,11 +13,11 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 9. Switch scenes on condition (next level)
 10. Number keys/mouse wheel to switch weapons
 11. Camera follow character
-12. "Flashlight" camera view
+12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
 14. Shift key for sprint
 15. Sprite movement animation
-16. Play sound on shoot
+16. Sound effects (one time ex. shooting)
 17. Play background music
 18. Health bar size changing
 19. Lose HP when hit with object and decrease HP bar
@@ -31,11 +31,11 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 27. Teleport Character/Object
 28. Ammo for weapon
 29. Hitscan for weapons
-30. NPC chasing character
-31. Set text to appear after delay
-32. Change UI object on button click
-33. Scrollable UI
-34. Draggable UI
+30. NPC/Enemy Chases character
+31. Set text to appear after delay (text sprites)
+32. Hide/show UI on key press
+33. Scrollable UI element
+34. Draggable UI element (Map)
 35. Upgrade Shop
 36. Buy Upgrade with money
 37. Change damage for weapons
@@ -43,4 +43,50 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 39. Change scene on key press
 40. Game over screen (restart button)
 41. Bounce object off wall
-42. Scalable UI for Different screen sizes
+42. Make UI Scalable to Screen Size
+43. Ability cooldown
+44. Tile Maps
+45. Heads Up Display UI (HUD)
+46. Navigation Mesh
+47. Change color of object during gameplay
+48. Raycast
+49. Quaternions
+50. Shader Graphs
+51. Attaching an image to GameObject
+52. Touch Controls for movement (for mobile games)
+53. Constant sound effect (car motor)
+54. Varying sound effects (change tone/pitch)
+55. Zap/Electrocute (Ours and Theirs)
+56. Sliders for sound and difficulty (R Nought)
+57. Replace cursor with crosshair
+58. Rebindable Keys
+59. Snap Object to tile on Tile Map
+60. Object pooling
+61. Box Colliders/RigidBody
+62. Grappling Hook
+63. 2D Sprite Outline
+64. Moving Text that follows character
+65. Animation when character stands on location
+66. Allow Character to stick to object/terrain
+67. Add background to platformer
+68. Unity Timeline (cutscene)
+69. Textbox UI element
+70. Text Tutorial w/ Key to skip
+71. Fade from black screen into game/game to black screen
+72. Rotate sprite to follow cursor
+73. Play explosion animation on collision/destroy
+74. Hide/show UI on key press
+75. Escape Room Alphabet Lock
+76. Movement slowing obstacles
+77. Outline/highlight object on mouse hover
+78. Change UI when Character stands on location (Plant Ahead)
+79. Highlight target tile based on character orientation
+80. Arrow Buttons to go to next choice (Army of Undead character/crosshair selection)
+81. Pick up object (money/ammo) when character walks over
+82. Spawn Enemies on time interval
+83. Zoom out camera
+84. 2D lighting (Ours and Theirs, player and enemy lighting)
+85. Power ups for 2D shooting: Extra player, multiple spray directions  (Virus Attacks!)
+86. Shake Camera view
+87. Change camera view color/tint (Virus Attacks!)
+88. Enter and leave building on keypress (social distancing game)
