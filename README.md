@@ -41,3 +41,4 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 37. Change damage for weapons
 38. Mute music on key press
 39. Change scene on key press
+40. Game over screen (restart button)
