@@ -26,7 +26,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 22. NPC following path
 23. Restart level on key press
 24. Main Menu
-25. Collision with wall
+25. Stop movement on collision with wall
 26. Change fire rate
 27. Teleport Character/Object
 28. Ammo for weapon
@@ -42,3 +42,4 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 38. Mute music on key press
 39. Change scene on key press
 40. Game over screen (restart button)
+41. Bounce object off wall
