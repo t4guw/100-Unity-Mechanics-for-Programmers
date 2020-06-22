@@ -58,7 +58,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 54. Varying sound effects (change tone/pitch)
 55. Zap/Electrocute (Ours and Theirs)
 56. Sliders for sound and difficulty (R Nought)
-57. Replace cursor with crosshair
+57. Replace cursor with crosshair (Army of Undead, Virus Attacks)
 58. Rebindable Keys
 59. Snap Object to tile on Tile Map
 60. Object pooling
@@ -66,27 +66,39 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 62. Grappling Hook
 63. 2D Sprite Outline
 64. Moving Text that follows character
-65. Animation when character stands on location
-66. Allow Character to stick to object/terrain
-67. Add background to platformer
+65. Animation when character stands on location 
+66. Allow Character to stick to object/terrain (Grup)
+67. Add background to platformer (Grup)
 68. Unity Timeline (cutscene)
 69. Textbox UI element
-70. Text Tutorial w/ Key to skip
-71. Fade from black screen into game/game to black screen
-72. Rotate sprite to follow cursor
-73. Play explosion animation on collision/destroy
+70. Text Tutorial w/ Key to skip (COVID Crasher)
+71. Fade from black screen into game/game to black screen (COVID Crasher)
+72. Rotate sprite to follow cursor (COVID Crasher)
+73. Play explosion animation on collision/destroy (COVID Crasher)
 74. Hide/show UI on key press
 75. Escape Room Alphabet Lock
-76. Movement slowing obstacles
+76. Movement slowing obstacles (COVID Crasher)
 77. Outline/highlight object on mouse hover
 78. Change UI when Character stands on location (Plant Ahead)
 79. Highlight target tile based on character orientation
 80. Arrow Buttons to go to next choice (Army of Undead character/crosshair selection)
 81. Pick up object (money/ammo) when character walks over
 82. Spawn Enemies on time interval
-83. Zoom out camera
+83. Zoom out camera (Ours & Theirs)
 84. 2D lighting (Ours and Theirs, player and enemy lighting)
-85. Power ups for 2D shooting: Extra player, multiple spray directions  (Virus Attacks!)
+85. Power ups for 2D shooting: Extra player
 86. Shake Camera view
 87. Change camera view color/tint (Virus Attacks!)
 88. Enter and leave building on keypress (social distancing game)
+89. Jump to scene on key press or mouse click (COVID Crasher skip tutorial)
+90. Change weapon on key press (COVID Crasher)
+91. Use items on key press (COVID Crasher)
+92. Quit application on key press/button click
+93. Bomb that destroys enemies in area/radius (COVID Crasher)
+94. Show Text UI on mouse hover (COVID Crasher item description)
+95. Shields & Immune to damage (COVID Crasher)
+96. Number Keypad (Space Escape)
+97. Auto Clicker/Cookie Clicker (COVID Crasher)
+98. PowerUps for 2D shooter: multiple spray directions  (Virus Attacks!, COVID Crasher)
+99. Widen/Narrow camera view (Space Escape, Trapped)
+100. Snare character on collision, Teleport character (Trapped)
