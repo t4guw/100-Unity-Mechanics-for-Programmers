@@ -1,4 +1,4 @@
-# WASD Movement
+# WASD Movement (2D)
 
 ## Description
 This mechanic shows how to implement movement in 2D for a user's character using a set of input keys. The code below is implemented using the WASD and arrow keys, common sets for many games. However, it can be modified to incorporate/utilize any set of keys, such as IJKL.
