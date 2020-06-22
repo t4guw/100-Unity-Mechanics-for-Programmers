@@ -1,7 +1,7 @@
 # WASD Movement
 
 ## Description
-This mechanic shows how to implement simple movement in 2D for a user's character using the WASD keys.
+This mechanic shows how to implement movement in 2D for a user's character using a set of input keys. The code below is implemented using the WASD keys, a common set for many games. 
 
 ## Implementation
     using UnityEngine;
@@ -32,7 +32,6 @@ This mechanic shows how to implement simple movement in 2D for a user's characte
             {
                 pos.x -= speed * Time.deltaTime;
             }
-
 
             transform.position = pos;
         }
