@@ -58,7 +58,7 @@ in the Unity editor.
         public Vector2 movement;
 
         void Start () {
-            b2d = GetComponent<Rigidbody2D> ();
+            rb2d = GetComponent<Rigidbody2D> ();
         }
         
 
