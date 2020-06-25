@@ -62,7 +62,6 @@ in the Unity editor.
             rb2d = GetComponent<Rigidbody2D> ();
         }
         
-
         void Update () {
             // Change direction
             if (Input.GetKey(KeyCode.LeftArrow)) {
