@@ -30,11 +30,6 @@ public class Speed_Direction_Friction : MonoBehaviour {
             moveCharacter(-transform.up);
         }
 
-        //movement = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-    }
-
-    void FixedUpdate() {
-        //moveCharacter(transform.up);
     }
 
     void moveCharacter(Vector3 direction) {
