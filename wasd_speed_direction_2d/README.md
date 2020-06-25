@@ -9,6 +9,7 @@ First, ensure the designated object has a RigidBody2D component attached, with g
 This first snippet of code below shows how to implement control over velocity and direction using the WASD keys.
 This is done by directly changing the velocity and the rotation of the game object. However, this method overrides physics elements,
 such as friction.
+
     using UnityEngine;
 
     public class Speed_Direction : MonoBehaviour {
@@ -17,7 +18,7 @@ such as friction.
         private Rigidbody2D rb2d;
 
         void Start () {
-        rb2d = GetComponent<Rigidbody2D> ();
+            rb2d = GetComponent<Rigidbody2D> ();
         }
         
 
@@ -61,7 +62,6 @@ in the Unity editor.
             rb2d = GetComponent<Rigidbody2D> ();
         }
         
-
         void Update () {
             // Change direction
             if (Input.GetKey(KeyCode.LeftArrow)) {
