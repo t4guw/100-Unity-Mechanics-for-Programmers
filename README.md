@@ -4,7 +4,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 ## List of Mechanics
 1. [WASD Keys for Movement in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/wasd_movement_2d)
 2. Space bar for Jump
-3. [Keys to adjust speed and direction (with and without friction)] (https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/wasd_speed_direction_2d)
+3. [ Keys to adjust speed and direction (with and without friction) ] (https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/wasd_speed_direction_2d)
 4. Mouse click/space bar to fire/shoot
 5. Mouse wheel to zoom
 6. Minimap
