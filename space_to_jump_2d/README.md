@@ -6,9 +6,9 @@ This mechanic shows how to implement using the space bar to jump in a 2D Platfor
 ## Implementation
 There are several steps that need to be done inside the Unity Editor to implement this mechanic.  
 
-- Platform must have a Box Collider 2D
-- Player object must have a Box Collider 2D and Rigidbody 2D
-- Gravity Scale of player object is greater than 0
+- Platform must have a Box Collider 2D component
+- Player object must have Box Collider 2D and Rigidbody 2D components
+- Gravity Scale of player object's Rigidbody2D component is greater than 0
 - The platform/ground must be assigned to a layer  
 
 The following code uses the space bar, a common button in many games, but can be replaced with any key. A boxcast is used to check if the player is grounded in order to prevent infinite jumping when in the air.
