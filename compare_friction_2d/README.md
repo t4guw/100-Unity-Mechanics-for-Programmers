@@ -5,7 +5,7 @@ This mechanic shows the effects of different coefficients of friction and object
 By increasing mass and/or coefficients of friction, objects will accelerate slower and decelerate faster.
 By decreasing mass and/or coefficients of friction, objects will accelerate faster and decelerate slower.
 Space bar applies a constant, consistent force to all blocks. Keep in mind of the friction equation:
-F = μN, where F is the Force of friction, μ is the friction coefficient, and N is the normal force.
+F=μN, where F is the Force of friction, μ is the friction coefficient, and N is the normal force.
 
 ## Implementation
 This implementation shows 4 different blocks sliding on different terrain. It uses a common movement script for all block objects to keep force applied constant amongst all objects, and implements movement
@@ -18,7 +18,7 @@ using the space bar to initiate force to all blocks.
 - One way to increase frictional force is by increasing normal force. This can be done by increasing the mass of a block. This is done by editing the "Mass" property of the RigidBody 2D components of the blocks.
 - The code/script below can be attached to all blocks/players and shows how to implement the space bar to apply the same force to all desired blocks.
 
-##
+### 
     using UnityEngine;
 
     public class MovePlayer : MonoBehaviour {
