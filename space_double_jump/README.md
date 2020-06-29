@@ -5,11 +5,10 @@ This mechanic shows how to implement a double jump feature for a 2D platformer. 
 "Space Bar for Jump" mechanic. This program uses the space bar, a commonly used mechanic for jumping
 in games. However, the code can be easily modified to map any key. 
 
+## Implementation
 The code below shows how to implement a double jump, but can be easily altered to allow for more jumps,
 such as a triple jump or more, by simply increasing the "jumpCountMax" variable. A value of 2 corresponds
 to allowing a double jump, a value of 3 corresponds to allowing a triple jump, and so on.
-
-## Implementation
 
     using UnityEngine;
 
