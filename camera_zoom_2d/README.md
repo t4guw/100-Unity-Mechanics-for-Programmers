@@ -8,6 +8,7 @@ controlling camera zoom, and is implemented using the default keybinds in Unity.
 the below code has been implemented using the up and down arrow keys for users that do not have
 a mouse scroll wheel. However, the arrow keys can easily be replaced with another set of keys.
 
+## Implementation
 Ensure the camera property "Projection" is set to orthographic. THe "minZoom" variable controls
 the closest the player can zoom in. The "maxZoom" variable controls the furthest the player can zoom
 out. The "zoomLerpSpeed" controls the speed at which the camera zooms in and increasing its value 

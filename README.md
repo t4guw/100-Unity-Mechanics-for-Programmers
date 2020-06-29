@@ -7,7 +7,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 3. [WASD Keys to adjust speed and direction (with and without friction)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/wasd_speed_direction_2d)
 4. [Space Bar to Double Jump](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/space_double_jump)
 4. Mouse click/space bar to fire/shoot
-5. Mouse wheel to zoom
+5. [Mouse wheel to zoom](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/camera_zoom_2d)
 6. Minimap
 7. Increase/Decrease score
 8. Object follow mouse cursor
