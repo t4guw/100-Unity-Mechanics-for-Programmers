@@ -9,8 +9,9 @@ the below code has been implemented using the up and down arrow keys for users t
 a mouse scroll wheel. However, the arrow keys can easily be replaced with another set of keys.
 
 ## Implementation
-Ensure the camera property "Projection" is set to orthographic. The "minZoom" variable controls
-the closest the player can zoom in. The "maxZoom" variable controls the furthest the player can zoom
+Ensure the camera property "Projection" is set to orthographic. The "zoomFactor" variable controls how much
+the camera will zoom in per scroll or key press. 
+The "minZoom" variable controls the closest the player can zoom in. The "maxZoom" variable controls the furthest the player can zoom
 out. The "zoomLerpSpeed" controls the speed at which the camera zooms in and increasing its value 
 will speed up the rate at which the camera smoothly zooms, and vice versa.
 
