@@ -29,12 +29,12 @@ desired (if wanting to fire from a custom location that is *not* the center of t
         private float nextFire = 0f;
 
         void Start () {
-        rb2d = GetComponent<Rigidbody2D> ();
+            rb2d = GetComponent<Rigidbody2D> ();
         }
         
         void Update () {
-        UpdateMotion();
-        ProcessBulletSpwan();
+            UpdateMotion();
+            ProcessBulletSpwan();
         }
 
         private void UpdateMotion() {
@@ -64,11 +64,11 @@ desired (if wanting to fire from a custom location that is *not* the center of t
         }
         
         private void ProcessBulletSpwan() {
-        if ((Input.GetKey(KeyCode.Space) || Input.GetKey(KeyCode.Mouse0)) && Time.time > nextFire) {
-            GameObject bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
-            Rigidbody2D re = bullet.GetComponent<Rigidbody2D>();
-            re.velocity = firePoint.up * bulletSpeed;
-            nextFire = Time.time + cooldown;
-        }
+            if ((Input.GetKey(KeyCode.Space) || Input.GetKey(KeyCode.Mouse0)) && Time.time > nextFire) {
+                GameObject bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+                Rigidbody2D re = bullet.GetComponent<Rigidbody2D>();
+                re.velocity = firePoint.up * bulletSpeed;
+                nextFire = Time.time + cooldown;
+            }
         }
     }
