@@ -13,6 +13,7 @@ There are several tasks that need to be done in the Unity Editor to implement th
 variable
 - Attach the Player GameObject to the Fire Point variable in the editor, or if a custom Fire point is
 desired (if wanting to fire from a custom location that is *not* the center of the object), "Create Empty" as a child of the Player GameObject and attach that as the "Fire Point" variable
+- To adjust the fire rate/cooldown, modify the "cooldown" variable
 
 ### 
     using UnityEngine;
