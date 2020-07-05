@@ -1,7 +1,7 @@
 # Drag and Drop UI
 
 ## Description
-This mechanic will show how to implement a UI feature that allows for dragging and dropping items using the mouse. The selected object will follow the mouse cursor, and when dragged into an appropriate slot, will snap into position.
+This mechanic will show how to implement a UI feature that allows for dragging and dropping items using the mouse. The selected object will follow the mouse cursor and become slightly transparent when dragged. When dropped into or near an appropriate slot, the object will snap into position.
 
 ## Implementation
 There are two pieces of code and several steps that need to be done inside the editor

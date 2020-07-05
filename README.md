@@ -10,7 +10,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 5. [Mouse wheel to zoom](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/camera_zoom_2d)
 6. [Frictional Forces in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/compare_friction_2d)
 6. [Minimap](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/minimap_2d)
-7. Increase/Decrease score
 8. [Drag and Drop UI](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/drag_and_drop_ui)
 9. Switch scenes on condition (next level)
 10. Number keys/mouse wheel to switch weapons
