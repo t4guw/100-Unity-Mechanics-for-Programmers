@@ -56,7 +56,7 @@ This first snippet of code is attached to each draggable object.
             
         }
 
-}
+    }
 
 The second snippet of code is attached to the item slot.
 
