@@ -49,14 +49,12 @@ This first snippet of code is attached to each draggable object.
         public void OnEndDrag(PointerEventData eventData)
         {
             canvasGroup.blocksRaycasts = true;
-            canvasGroup.alpha = 1f;
-            
+            canvasGroup.alpha = 1f; 
         }
 
         public void OnPointerDown(PointerEventData eventData) {
             
         }
-
     }
 
 The second snippet of code is attached to the item slot.
@@ -92,8 +90,7 @@ The second snippet of code is attached to the item slot.
                         eventData.pointerDrag.GetComponent<RectTransform>().anchoredPosition = curr;
                         dragDrop.index = i;
                         break;
-                    }
-                    
+                    }                  
                 }
             }   
         }
