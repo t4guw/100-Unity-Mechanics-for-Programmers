@@ -9,10 +9,12 @@ public class ItemSlot : MonoBehaviour, IDropHandler
     public Vector3[] v = new Vector3[4];
     public bool[] filled = new bool[4];
     private DragDrop dragDrop;
+
     void Start()
     {
         rt = GetComponent<RectTransform>();
     }
+
     public void OnDrop(PointerEventData eventData)
     {
         rt.GetLocalCorners(v);
@@ -28,9 +30,7 @@ public class ItemSlot : MonoBehaviour, IDropHandler
                     dragDrop.index = i;
                     break;
                 }
-                
             }
-        }
-            
+        }        
     }
 }

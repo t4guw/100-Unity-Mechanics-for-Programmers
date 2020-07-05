@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+
 public class DragDrop : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, IEndDragHandler, IDragHandler
 {
     private RectTransform rectTransform;
@@ -35,12 +36,10 @@ public class DragDrop : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, I
     public void OnEndDrag(PointerEventData eventData)
     {
         canvasGroup.blocksRaycasts = true;
-        canvasGroup.alpha = 1f;
-        
+        canvasGroup.alpha = 1f;  
     }
 
     public void OnPointerDown(PointerEventData eventData) {
         
     }
-
 }
