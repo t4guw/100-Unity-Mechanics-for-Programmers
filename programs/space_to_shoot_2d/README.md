@@ -7,8 +7,8 @@ mechanic. Once implemented it behaves similarly to a Space Invaders player movem
 
 ## Implementation
 There are several tasks that need to be done in the Unity Editor to implement this mechanic.
-- Create a Player object with a Rigidbody 2D component
-- Create a Bullet object prefab a Rigidbody 2D component
+- Create a Player _GameObject_ with a Rigidbody 2D component
+- Create a Bullet prefab a Rigidbody 2D component
 - Attach the below code to the player object, then attach the bullet prefab to the Bullet prefab
 variable
 - Attach the Player GameObject to the Fire Point variable in the editor, or if a custom Fire point is
