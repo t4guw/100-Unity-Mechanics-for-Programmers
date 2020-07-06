@@ -8,7 +8,8 @@ First, create an Empty GameObject as the parent of the Main Camera. Ensure it ha
 
 The camera shake can be activated in a variety of ways, such as during an explosion, on Key press, or on button press. However, in any of these implementations, you will use a Coroutine. See more about Coroutines [here](https://docs.unity3d.com/Manual/Coroutines.html). To call a Coroutine, use the `StartCoroutine()` function.  
 
-There are many ways to implement camera shake. There are various ways to code it, as well as various packages on the Unity Asset Store. Below is a simple implementation, where camera shake will be activated with the press of a button.
+There are many ways to implement camera shake. There are various ways to code it, as well as various packages on the Unity Asset Store. Below is a simple implementation, where camera shake will be activated with the press of a UI button.
+
 ### 
     using System.Collections;
     using System.Collections.Generic;
