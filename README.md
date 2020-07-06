@@ -6,21 +6,22 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 2. [Space bar to Jump](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/space_to_jump_2d)
 3. [WASD Keys to adjust speed and direction (with and without friction)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/wasd_speed_direction_2d)
 4. [Space Bar to Double Jump](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/space_double_jump)
-4. [Space Bar to Shoot in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/space_to_shoot_2d)
-5. [Mouse wheel to zoom](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/camera_zoom_2d)
-6. [Frictional Forces in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/compare_friction_2d)
-6. [Minimap](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/minimap_2d)
-8. [Drag and Drop UI](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/drag_and_drop_ui)
-9. [Drag and Drop to Corners](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/drag_drop_corners_2d)
-10. [Load Next Level](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/load_next_scene)
-10. Number keys/mouse wheel to switch weapons
+5. [Space Bar to Shoot in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/space_to_shoot_2d)
+6. [Mouse wheel to zoom](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/camera_zoom_2d)
+7. [Frictional Forces in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/compare_friction_2d)
+8. [Minimap](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/minimap_2d)
+9. [Drag and Drop UI](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/drag_and_drop_ui)
+10. [Drag and Drop to Corners](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/drag_drop_corners_2d)
+11. [Load Next Level](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/load_next_scene)
+12. [Background Music](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/background_music)
+
+12. Number keys/mouse wheel to switch weapons
 11. Camera follow character
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
 14. Shift key for sprint
 15. Sprite movement animation
 16. Sound effects (one time ex. shooting)
-17. Play background music
 18. Health bar size changing
 19. Lose HP when hit with object and decrease HP bar
 20. Lose when HP reaches 0
