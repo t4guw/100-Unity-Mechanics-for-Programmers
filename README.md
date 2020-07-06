@@ -14,6 +14,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 10. [Drag and Drop to Corners](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/drag_drop_corners_2d)
 11. [Load Next Level](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/load_next_scene)
 12. [Background Music](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/background_music)
+13. [Camera Shake](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/camera_shake)
 12. Number keys/mouse wheel to switch weapons
 11. Camera follow character
 12. "Flashlight" camera view (Grup, Trapped) 
