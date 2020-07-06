@@ -15,6 +15,7 @@ This first snippet of code is attached to each draggable object.
     using System.Collections.Generic;
     using UnityEngine;
     using UnityEngine.EventSystems;
+    
     public class DragDrop : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, IEndDragHandler, IDragHandler
     {
         private RectTransform rectTransform;
@@ -48,14 +49,12 @@ This first snippet of code is attached to each draggable object.
         public void OnEndDrag(PointerEventData eventData)
         {
             canvasGroup.blocksRaycasts = true;
-            canvasGroup.alpha = 1f;
-            
+            canvasGroup.alpha = 1f; 
         }
 
         public void OnPointerDown(PointerEventData eventData) {
             
         }
-
     }
 
 The second snippet of code is attached to the item slot.
@@ -71,10 +70,12 @@ The second snippet of code is attached to the item slot.
         public Vector3[] v = new Vector3[4];
         public bool[] filled = new bool[4];
         private DragDrop dragDrop;
+        
         void Start()
         {
             rt = GetComponent<RectTransform>();
         }
+        
         public void OnDrop(PointerEventData eventData)
         {
             rt.GetLocalCorners(v);
@@ -89,10 +90,8 @@ The second snippet of code is attached to the item slot.
                         eventData.pointerDrag.GetComponent<RectTransform>().anchoredPosition = curr;
                         dragDrop.index = i;
                         break;
-                    }
-                    
+                    }                  
                 }
-            }
-                
+            }   
         }
     }
