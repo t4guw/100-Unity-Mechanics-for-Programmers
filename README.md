@@ -2,17 +2,17 @@
 Building Unity mechanics structured as a set of challenges. 100 sample programs where each program demonstrates a different mechanic.
 
 ## List of Mechanics
-1. [WASD Keys for Movement in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/wasd_movement_2d)
-2. [Space bar to Jump](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/space_to_jump_2d)
-3. [WASD Keys to adjust speed and direction (with and without friction)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/wasd_speed_direction_2d)
-4. [Space Bar to Double Jump](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/space_double_jump)
-5. [Space Bar to Shoot in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/space_to_shoot_2d)
-6. [Mouse wheel to zoom](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/camera_zoom_2d)
-7. [Frictional Forces in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/compare_friction_2d)
-8. [Minimap](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/minimap_2d)
-9. [Drag and Drop UI](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/drag_and_drop_ui)
-10. [Drag and Drop to Corners](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/drag_drop_corners_2d)
-11. [Load Next Level](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/load_next_scene)
+1. [WASD Keys for Movement in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/wasd_movement_2d)
+2. [Space bar to Jump](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/space_to_jump_2d)
+3. [WASD Keys to adjust speed and direction (with and without friction)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/wasd_speed_direction_2d)
+4. [Space Bar to Double Jump](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/space_double_jump)
+5. [Space Bar to Shoot in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/space_to_shoot_2d)
+6. [Mouse wheel to zoom](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/camera_zoom_2d)
+7. [Frictional Forces in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/compare_friction_2d)
+8. [Minimap](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/minimap_2d)
+9. [Drag and Drop UI](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/drag_and_drop_ui)
+10. [Drag and Drop to Corners](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/drag_drop_corners_2d)
+11. [Load Next Level](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/load_next_scene)
 12. [Background Music](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/background_music)
 12. Number keys/mouse wheel to switch weapons
 11. Camera follow character
