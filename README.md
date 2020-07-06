@@ -12,7 +12,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 6. [Minimap](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/minimap_2d)
 8. [Drag and Drop UI](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/drag_and_drop_ui)
 9. [Drag and Drop to Corners](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/drag_drop_corners_2d)
-10. [Switch scenes on condition (next level)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/load_next_scene)
+10. [Load Next Level](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/load_next_scene)
 10. Number keys/mouse wheel to switch weapons
 11. Camera follow character
 12. "Flashlight" camera view (Grup, Trapped) 
