@@ -12,6 +12,7 @@ There are several steps that need to be taken in the Unity Editor.
 5. Scale up the slider to the desired size. Scale the "Fill Area" under the slider (from the hierarchy) to fill up the entire slider.
 6. Under the GameObject created in step 2, drag and drop the loading scren panel to the "Loading Screen" variable, and the slider to the "slider" variable.
 
+### 
     using System.Collections;
     using UnityEngine;
     using UnityEngine.SceneManagement;
