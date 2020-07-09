@@ -3,11 +3,11 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 
 ## List of Mechanics
 1. [WASD Keys for Movement in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/wasd_movement_2d)
-2. [Space bar to Jump](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/space_to_jump_2d)
+2. [Space Bar to Jump](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/space_to_jump_2d)
 3. [WASD Keys to adjust speed and direction (with and without friction)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/wasd_speed_direction_2d)
 4. [Space Bar to Double Jump](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/space_double_jump)
 5. [Space Bar to Shoot in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/space_to_shoot_2d)
-6. [Mouse wheel to zoom](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/camera_zoom_2d)
+6. [Mouse Wheel to Zoom Camera](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/camera_zoom_2d)
 7. [Frictional Forces in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/compare_friction_2d)
 8. [Minimap](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/minimap_2d)
 9. [Drag and Drop UI](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/drag_and_drop_ui)
@@ -15,7 +15,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 11. [Load Next Level](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/load_next_scene)
 12. [Background Music](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/background_music)
 13. [Camera Shake](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/camera_shake)
-14. [Bounce object off wall](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/reflect_off_walls_2d)
+14. [Bounce Object Off Wall](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/reflect_off_walls_2d)
 12. Number keys/mouse wheel to switch weapons
 11. Camera follow character
 12. "Flashlight" camera view (Grup, Trapped) 
