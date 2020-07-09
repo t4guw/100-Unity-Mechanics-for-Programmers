@@ -1,7 +1,7 @@
 # Reflect Off Walls in 2D
 
 ## Description
-This mechanic will show how to reflect an object off walls using [Vector3.Reflect](https://docs.unity3d.com/ScriptReference/Vector3.Reflect.html).
+This mechanic will show how to reflect an object off walls using [Vector3.Reflect](https://docs.unity3d.com/ScriptReference/Vector3.Reflect.html). For more realistic collisions/interactions use Physics2D materials and their "Bounciness" property.
 
 ## Implementation
 Ensure a Rigidbody2D component and BoxCollider2D component have been attached to the object that will be bouncing.
