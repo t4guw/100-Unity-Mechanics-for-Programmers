@@ -18,21 +18,18 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 14. [Bounce Object Off Wall](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/reflect_off_walls_2d)
 15. [Loading Bar and Screen](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/loading_bar_screen)
 16. [Smooth Camera Follow](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/smooth_camera_follow)
+17. [Health Bar](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/health_bar_2d)
 12. Number keys/mouse wheel to switch weapons
-11. Camera follow character
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
 14. Shift key for sprint
 15. Sprite movement animation
 16. Sound effects (one time ex. shooting)
-18. Health bar size changing
-19. Lose HP when hit with object and decrease HP bar
 20. Lose when HP reaches 0
 21. Pause/resume game on key press
 22. NPC moving between waypoints
 23. Restart level on key press
 24. Main Menu
-25. Stop movement on collision with wall
 26. Change fire rate
 27. Teleport Character/Object
 28. Ammo for weapon
@@ -48,7 +45,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 38. Mute music on key press
 39. Change scene on key press
 40. Game over screen (restart button)
-41. 
 42. Make UI Scalable to Screen Size
 43. Ability cooldown
 44. Tile Maps
@@ -68,7 +64,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 58. Rebindable Keys
 59. Snap Object to tile on Tile Map
 60. Object pooling
-61. Box Colliders/RigidBody
 62. Grappling Hook
 63. 2D Sprite Outline
 64. Moving Text that follows character
@@ -108,4 +103,3 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 98. PowerUps for 2D shooter: multiple spray directions  (Virus Attacks!, COVID Crasher)
 99. Widen/Narrow camera view (Space Escape, Trapped)
 100. Snare character on collision, Teleport character (Trapped)
-101. Loading Screen 
