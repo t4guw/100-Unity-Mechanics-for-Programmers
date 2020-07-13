@@ -17,6 +17,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 13. [Camera Shake](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/camera_shake)
 14. [Bounce Object Off Wall](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/reflect_off_walls_2d)
 15. [Loading Bar and Screen](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/loading_bar_screen)
+16. [Smooth Camera Follow](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/smooth_camera_follow)
 12. Number keys/mouse wheel to switch weapons
 11. Camera follow character
 12. "Flashlight" camera view (Grup, Trapped) 
