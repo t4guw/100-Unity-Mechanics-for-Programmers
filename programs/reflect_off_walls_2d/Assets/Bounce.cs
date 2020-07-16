@@ -9,10 +9,9 @@ public class Bounce : MonoBehaviour
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
-        rb2d.velocity = speed * new Vector2(1,1);
+        rb2d.velocity = speed * Random.insideUnitCircle.normalized;
     }
 
-    // Update is called once per frame
     void Update()
     {
         lastVelocity = rb2d.velocity;
