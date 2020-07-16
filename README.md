@@ -20,6 +20,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 16. [Smooth Camera Follow](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/smooth_camera_follow)
 17. [Health Bar](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/health_bar_2d)
 18. [Drag and Drop to Nearest Corner](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/drag_drop_nearest_corner)
+19. [Rotate Object to Cursor in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/rotate_to_cursor_2d)
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
