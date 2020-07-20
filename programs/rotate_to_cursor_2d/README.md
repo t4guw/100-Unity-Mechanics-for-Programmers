@@ -34,7 +34,6 @@ First ensure the player has a Rigidbody2D component attached to it. The example 
             if (instant)
             {
                 rb2d.rotation = angle;
-
             }
             else
             {
