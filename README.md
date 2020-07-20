@@ -91,7 +91,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 83. Zoom out camera (Ours & Theirs)
 84. 2D lighting (Ours and Theirs, player and enemy lighting)
 85. Power ups for 2D shooting: Extra player
-86. Shake Camera view
 87. Change camera view color/tint (Virus Attacks!)
 88. Enter and leave building on keypress (social distancing game)
 89. Jump to scene on key press or mouse click (COVID Crasher skip tutorial)
