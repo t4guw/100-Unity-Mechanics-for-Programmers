@@ -22,6 +22,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 18. [Drag and Drop to Nearest Corner](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/drag_drop_nearest_corner)
 19. [Rotate Object to Cursor in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/rotate_to_cursor_2d)
 20. [Raycast/Hitscan Shooting in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/raycast_shooting_2d)
+21. [Change Cursor](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/change_cursor)
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
@@ -36,7 +37,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 26. Change fire rate
 27. Teleport Character/Object
 28. Ammo for weapon
-29. Hitscan for weapons
 30. NPC/Enemy Chases character
 31. Set text to appear after delay (text sprites)
 32. Hide/show UI on key press
