@@ -4,7 +4,7 @@
 This mechanic shows how to implement raycast shooting in 2D. This would be useful when developing a shooter that uses "hitscan," a popular mechanic for shooting, instead of firing projectiles that fly through the air.
 
 ## Implementation
-The example program was implemented using a line to show the location/effect of the raycast. To do this:
+The example program was implemented using a line to show the location/effect of the raycast. If it hits a red "enemy" block, it destroys it, and if it hits a white "terrain" block, it stops the raycast. To create the line effect, do this:
 1. Create a line effect (Create > Effects > Line). 
 2. Increase Order in Layer
 3. Expand the "Positions" property. Index 0 is the starting point for the line, while Index 1 is the ending point. Change the default Index 1 value from Z = 1, to Z = 0, and adjust the X and Y values as desired. 
@@ -37,6 +37,13 @@ To make the ray collide with an object, ensure the target object has a BoxCollid
                 {
                     lineRenderer.SetPosition(0, transform.position);
                     lineRenderer.SetPosition(1, hitInfo.point);
+
+                    if (hitInfo.transform.tag.Equals("Enemy"))
+                    {
+                        Debug.Log("hit");
+                        Destroy(hitInfo.transform.gameObject);
+                    }
+
                 } else
                 {
                     lineRenderer.SetPosition(0, transform.position);
