@@ -1,12 +1,12 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class RotatePlayer : MonoBehaviour
 {
     public Camera cam;
     Vector2 mousePos;
     public Rigidbody2D rb2d;
+    public float rotateSpeed = 50f;
+    public bool instant = false;
 
     private void Start()
     {
@@ -22,6 +22,16 @@ public class RotatePlayer : MonoBehaviour
     {
         Vector2 lookDirection = mousePos - new Vector2(transform.position.x, transform.position.y);
         float angle = Mathf.Atan2(lookDirection.y, lookDirection.x) * Mathf.Rad2Deg - 90f;
-        rb2d.rotation = angle;
+
+        if (instant)
+        {
+            rb2d.rotation = angle;
+
+        }
+        else
+        {
+            Quaternion qTo = Quaternion.Euler(new Vector3(0, 0, angle));
+            transform.rotation = Quaternion.RotateTowards(transform.rotation, qTo, rotateSpeed * Time.deltaTime);
+        }
     }
 }
