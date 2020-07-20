@@ -21,6 +21,13 @@ public class Shoot : MonoBehaviour
         {
             lineRenderer.SetPosition(0, transform.position);
             lineRenderer.SetPosition(1, hitInfo.point);
+
+            if (hitInfo.transform.tag.Equals("Enemy"))
+            {
+                Debug.Log("hit");
+                Destroy(hitInfo.transform.gameObject);
+            }
+
         } else
         {
             lineRenderer.SetPosition(0, transform.position);
