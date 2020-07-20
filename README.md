@@ -37,7 +37,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 26. Change fire rate
 27. Teleport Character/Object
 28. Ammo for weapon
-29. Hitscan for weapons
 30. NPC/Enemy Chases character
 31. Set text to appear after delay (text sprites)
 32. Hide/show UI on key press
