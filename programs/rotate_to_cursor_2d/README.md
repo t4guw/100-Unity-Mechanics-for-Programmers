@@ -4,7 +4,7 @@
 This mechanic shows how to rotate an object towards a cursor, but can be modified to rotate towards any object. This could be extremely useful when developing a top-down shooter, or when you want objects to constantly look at a player.
 
 ## Implementation
-First ensure the player has a Rigidbody2D component attached to it. The example program has an option to instantly rotate towards the cursor or rotate over time. To change between these two options, change the "instant" variable. To change the rotation speed, modify the "rotateSpeed" variable.
+First ensure the player has a Rigidbody2D component attached to it. The example program has an option to either instantly rotate towards the cursor, or rotate over time. To change between these two options, change the "instant" variable. To change the rotation speed, modify the "rotateSpeed" variable.
 
     using UnityEngine;
 
