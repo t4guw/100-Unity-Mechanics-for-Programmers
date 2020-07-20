@@ -1,7 +1,7 @@
 # Enemy Follow Player 2D
 
 ## Description
-This mechanic will show how to make an enemy chase a player.
+This mechanic will show how to make an enemy chase a player in 2D.
 
 ## Implementation
 Unity currently does not have any built-in tools to support pathfinding in 2D. However, there are 3rd party resources to help implement pathfinding, such
