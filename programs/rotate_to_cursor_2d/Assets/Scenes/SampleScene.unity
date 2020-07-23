@@ -227,7 +227,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cam: {fileID: 519420031}
   rb2d: {fileID: 1127850209}
-  rotateSpeed: 50
+  degreesPerSecond: 180
   instant: 0
 --- !u!212 &1127850207
 SpriteRenderer:

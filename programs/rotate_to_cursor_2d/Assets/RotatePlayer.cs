@@ -5,7 +5,7 @@ public class RotatePlayer : MonoBehaviour
     public Camera cam;
     Vector2 mousePos;
     public Rigidbody2D rb2d;
-    public float rotateSpeed = 50f;
+    public float degreesPerSecond = 180f;
     public bool instant = false;
 
     private void Start()
@@ -31,7 +31,7 @@ public class RotatePlayer : MonoBehaviour
         else
         {
             Quaternion qTo = Quaternion.Euler(new Vector3(0, 0, angle));
-            transform.rotation = Quaternion.RotateTowards(transform.rotation, qTo, rotateSpeed * Time.deltaTime);
+            transform.rotation = Quaternion.RotateTowards(transform.rotation, qTo, (degreesPerSecond * Time.deltaTime) / 2);
         }
     }
 }
