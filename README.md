@@ -25,6 +25,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 21. [Change Cursor](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/change_cursor)
 22. [Enemy Follow Player in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/enemy_follow_player_2d)
 23. [Basic Navmesh in 3D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/navmesh_basic_3d)
+24. [Move Camera in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/move_camera_2d)
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
