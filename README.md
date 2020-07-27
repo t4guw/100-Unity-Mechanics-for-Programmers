@@ -54,7 +54,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 43. Ability cooldown
 44. Tile Maps
 45. Heads Up Display UI (HUD)
-46. Navigation Mesh
 47. Change color of object during gameplay
 48. Raycast
 49. Quaternions
