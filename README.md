@@ -39,7 +39,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 24. Main Menu
 26. Change fire rate
 27. Teleport Character/Object
-28. Ammo for weapon
 30. NPC/Enemy Chases character
 31. Set text to appear after delay (text sprites)
 32. Hide/show UI on key press
@@ -80,7 +79,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 69. Textbox UI element
 70. Text Tutorial w/ Key to skip (COVID Crasher)
 71. Fade from black screen into game/game to black screen (COVID Crasher)
-72. Rotate sprite to follow cursor (COVID Crasher)
 73. Play explosion animation on collision/destroy (COVID Crasher)
 74. Hide/show UI on key press
 75. Escape Room Alphabet Lock
@@ -91,12 +89,10 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 80. Arrow Buttons to go to next choice (Army of Undead character/crosshair selection)
 81. Pick up object (money/ammo) when character walks over
 82. Spawn Enemies on time interval
-83. Zoom out camera (Ours & Theirs)
 84. 2D lighting (Ours and Theirs, player and enemy lighting)
 85. Power ups for 2D shooting: Extra player
 87. Change camera view color/tint (Virus Attacks!)
 88. Enter and leave building on keypress (social distancing game)
-89. Jump to scene on key press or mouse click (COVID Crasher skip tutorial)
 90. Change weapon on key press (COVID Crasher)
 91. Use items on key press (COVID Crasher)
 92. Quit application on key press/button click
