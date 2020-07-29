@@ -27,6 +27,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 23. [Basic Navmesh in 3D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/navmesh_basic_3d)
 24. [Move Camera in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/move_camera_2d)
 25. [Volume Control and Mute Music](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/volume_control_and_mute_music)
+26. [Teleport Between Locations in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/teleport_2d)
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
