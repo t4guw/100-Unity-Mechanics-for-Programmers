@@ -28,6 +28,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 24. [Move Camera in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/move_camera_2d)
 25. [Volume Control and Mute Music](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/volume_control_and_mute_music)
 26. [Teleport Between Locations in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/teleport_2d)
+27. [NPC Patrol Between Waypoints in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/patrol_waypoints_2d)
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
@@ -41,7 +42,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 24. Main Menu
 26. Change fire rate
 27. Teleport Character/Object
-30. NPC/Enemy Chases character
 31. Set text to appear after delay (text sprites)
 32. Hide/show UI on key press
 33. Scrollable UI element
@@ -49,7 +49,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 35. Upgrade Shop
 36. Buy Upgrade with money
 37. Change damage for weapons
-38. Mute music on key press
 39. Change scene on key press
 40. Game over screen (restart button)
 42. Make UI Scalable to Screen Size
@@ -60,7 +59,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 48. Raycast
 49. Quaternions
 50. Shader Graphs
-51. Attaching an image to GameObject
 52. Touch Controls for movement (for mobile games)
 53. Constant sound effect (car motor)
 54. Varying sound effects (change tone/pitch)
