@@ -30,6 +30,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 26. [Teleport Between Locations in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/teleport_2d)
 27. [NPC Patrol Between Waypoints in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/patrol_waypoints_2d)
 28. [Write Out Text Effect](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/write_out_text)
+29. [Pause Game](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/pause_game)
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
