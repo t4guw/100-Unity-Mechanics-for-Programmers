@@ -49,6 +49,6 @@ There are several steps in the Unity Editor that need to be completed:
                 isPaused = true;
             }
         }
-6. In the Button in the inspector, add an OnClick() action.
-7. Drag and drop the "Canvas" to the empty field. In the drop down to the right select, PauseMenu -> Resume().
+6. Select the Resume Button in the hierarchy, and in the inspector, add an OnClick() action using the "+" button.
+7. Drag and drop the "Canvas" to the empty field. In the drop down to the right, select PauseMenu -> Resume().
 8. Disable the Panel created in step 1 (check mark to the left of the object name in the inspector).
