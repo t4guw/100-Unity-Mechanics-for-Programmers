@@ -10,7 +10,7 @@ There are several steps in the Unity Editor that need to be completed:
 2. Change the color of the panel to a transparent black/dark gray, and "source image" from background to none.
 2. Create a button as a child of the panel that will be the resume button. Change the text of the button to "Resume", increase font size, and change color of text to white. You can add a "Shadow" component to add depth to the text.
 3. Change the color of the "Image (Script)" component to black. 
-4. Under the "Button (Script)" component, change the normal color Alpha to 0, "Highlighted Color" Alpha to 100, "Pressed Color" to 150, "Navigation" to none.
+4. Under the "Button (Script)" component, change the normal color Alpha to 0, "Highlighted Color" Alpha to 100, "Pressed Color" to 150, "Navigation" to none. Alpha values can be changed as desired.
 5. Attach the following script to the *Canvas* and drag and drop the Panel created in step 1 to the empty field in the inspector:
 
         using UnityEngine;
