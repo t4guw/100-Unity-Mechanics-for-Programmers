@@ -34,7 +34,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
-14. Shift key for sprint
 15. Sprite movement animation
 16. Sound effects (one time ex. shooting)
 20. Lose when HP reaches 0
