@@ -5,11 +5,11 @@ This mechanic shows how to implement a grappling hook in 2D.
 
 ## Implementation
 There are several steps that need to be completed in the Unity Editor:
-1. Create a sprite renderer object, and add a RigidBody2D, BoxCollider2D, DistanceJoint2D, and LineRenderer components
-2. Adjust the width for the LineRenderer as needed
-3. If you would like to change the color for the LineRenderer, create a new material and drag and drop it to the material property
-4. If you would like the grappling hook to collide with objects check "Enable Collision" in the DistanceJoint2D component
-5. Add the following script to the object. Drag and drop the appropriate object/components to the correct fields in the inspector 
+1. Create a sprite renderer object, and add a RigidBody2D, BoxCollider2D, DistanceJoint2D, and LineRenderer components.
+2. Adjust the width for the LineRenderer as needed.
+3. If you would like to change the color for the LineRenderer, create a new material and drag and drop it to the material property.
+4. If you would like the grappling hook to collide with objects check "Enable Collision" in the DistanceJoint2D component.
+5. Add the following script to the object. Drag and drop the appropriate object/components to the correct fields in the inspector. 
 
         using UnityEngine;
 
