@@ -3,7 +3,7 @@
 ## Description
 This mechanic shows how to implement an infinite background scrolling for a 2D platformer. The example program uses the jump and WASD movement from previous mechanics to demonstrate the Parallax effect.  
 
-The background image can be found [here](https://www.deviantart.com/stormandy/art/Wip-Parallax-Background-341233890)
+The background image can be found [here](https://www.deviantart.com/stormandy/art/Wip-Parallax-Background-341233890).
 
 ## Implementation
 There are several steps that need to be completed in the Unity Editor
