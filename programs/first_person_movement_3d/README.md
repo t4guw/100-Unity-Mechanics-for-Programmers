@@ -52,16 +52,16 @@ There are several steps that need to be done in the Unity Editor.
             public float groundDistance = 4f;
             public LayerMask groundMask;
 
-            Vector3 velocity;
+            public Vector3 velocity;
             bool isGrounded;
 
             void Update()
             {
                 isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
 
-                if (isGrounded && velocity.y < 0)
+                if (isGrounded)
                 {
-                    velocity.y = -2f;
+                    velocity.y = 0f;
                 }
 
                 float x = Input.GetAxis("Horizontal");
@@ -71,13 +71,18 @@ There are several steps that need to be done in the Unity Editor.
 
                 controller.Move(move * speed * Time.deltaTime);
 
-                if(Input.GetButtonDown("Jump"))
+                if(Input.GetButtonDown("Jump") && isGrounded)
                 {
                     velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
                 }
 
-                velocity.y += gravity * Time.deltaTime;
+                if (!isGrounded)
+                {
+                    velocity.y += gravity * Time.deltaTime;
+
+                }
 
                 controller.Move(velocity * Time.deltaTime);
             }
         }
+

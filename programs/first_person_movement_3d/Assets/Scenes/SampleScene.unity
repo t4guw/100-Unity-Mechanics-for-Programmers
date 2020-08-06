@@ -180,12 +180,13 @@ MonoBehaviour:
   controller: {fileID: 129985389}
   speed: 12
   gravity: -15
-  jumpHeight: 3
+  jumpHeight: 2
   groundCheck: {fileID: 2006157294}
-  groundDistance: 1
+  groundDistance: 0.7
   groundMask:
     serializedVersion: 2
     m_Bits: 512
+  velocity: {x: 0, y: 0, z: 0}
 --- !u!1 &170076733
 GameObject:
   m_ObjectHideFlags: 0
