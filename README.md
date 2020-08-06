@@ -34,7 +34,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
-14. Shift key for sprint
 15. Sprite movement animation
 16. Sound effects (one time ex. shooting)
 20. Lose when HP reaches 0
@@ -57,16 +56,11 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 43. Ability cooldown
 44. Tile Maps
 45. Heads Up Display UI (HUD)
-47. Change color of object during gameplay
-48. Raycast
-49. Quaternions
 50. Shader Graphs
 52. Touch Controls for movement (for mobile games)
 53. Constant sound effect (car motor)
 54. Varying sound effects (change tone/pitch)
 55. Zap/Electrocute (Ours and Theirs)
-56. Sliders for sound and difficulty (R Nought)
-57. Replace cursor with crosshair (Army of Undead, Virus Attacks)
 58. Rebindable Keys
 59. Snap Object to tile on Tile Map
 60. Object pooling
@@ -105,3 +99,5 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 98. PowerUps for 2D shooter: multiple spray directions  (Virus Attacks!, COVID Crasher)
 99. Widen/Narrow camera view (Space Escape, Trapped)
 100. Snare character on collision, Teleport character (Trapped)
+101. 3D FPS Camera Movement
+102. Ori and the Blind Forest Bash
