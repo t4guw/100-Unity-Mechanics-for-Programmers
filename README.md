@@ -34,6 +34,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 30. [Grappling Hook 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/grappling_hook_2d)
 31. [Parallax Background Scrolling in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/parallax_infinite_background_2d)
 32. [First Person Movement 3D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/first_person_movement_3d)
+33. [Reset Scene](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/reset_scene)
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
