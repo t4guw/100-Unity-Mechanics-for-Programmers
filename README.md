@@ -101,5 +101,4 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 98. PowerUps for 2D shooter: multiple spray directions  (Virus Attacks!, COVID Crasher)
 99. Widen/Narrow camera view (Space Escape, Trapped)
 100. Snare character on collision, Teleport character (Trapped)
-101. 3D FPS Camera Movement
 102. Ori and the Blind Forest Bash
