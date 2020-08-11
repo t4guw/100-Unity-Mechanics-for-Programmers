@@ -67,7 +67,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 58. Rebindable Keys
 59. Snap Object to tile on Tile Map
 60. Object pooling
-62. Grappling Hook
 63. 2D Sprite Outline
 64. Moving Text that follows character
 65. Animation when character stands on location 
