@@ -37,6 +37,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 33. [Reset Scene](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/reset_scene)
 34. [Scene Transitions and Screen Tint](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/scene_transitions_tint)
 35. [Change Player Speed](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/change_player_speed)
+36. [Text Follow Player & Hide/Show UI](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/text_follow_player)
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
