@@ -5,7 +5,7 @@ This mechanic shows how to implement slowing and speeding up a player. This is d
 when walking over a certain tile, and also a consumed powerup that lasts for a certain duration.
 
 ## Implementation
-For each object that will slow the player, create a Sprite Renderer.
+For each object that will slow the player, create a Sprite Renderer. Add BoxCollider2D components to each, and enable "Is Trigger."
 For a constant object that will slow the player only when stepped on, and return to normal after exiting the object, add the following script:
         
         using UnityEngine;
