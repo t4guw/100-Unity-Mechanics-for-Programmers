@@ -43,12 +43,8 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 15. Sprite movement animation
 16. Sound effects (one time ex. shooting)
 20. Lose when HP reaches 0
-21. Pause/resume game on key press
-22. NPC moving between waypoints
-23. Restart level on key press
 24. Main Menu
 26. Change fire rate
-27. Teleport Character/Object
 31. Set text to appear after delay (text sprites)
 32. Hide/show UI on key press
 33. Scrollable UI element
