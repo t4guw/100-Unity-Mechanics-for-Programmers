@@ -37,6 +37,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 33. [Reset Scene](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/reset_scene)
 34. [Scene Transitions and Screen Tint](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/scene_transitions_tint)
 35. [Change Player Speed](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/change_player_speed)
+36. [Text Follow Player & Hide/Show UI](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/text_follow_player)
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
@@ -46,7 +47,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 24. Main Menu
 26. Change fire rate
 31. Set text to appear after delay (text sprites)
-32. Hide/show UI on key press
 33. Scrollable UI element
 34. Draggable UI element (Map)
 35. Upgrade Shop
@@ -67,7 +67,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 59. Snap Object to tile on Tile Map
 60. Object pooling
 63. 2D Sprite Outline
-64. Moving Text that follows character
 65. Animation when character stands on location 
 66. Allow Character to stick to object/terrain (Grup)
 68. Unity Timeline (cutscene)
@@ -75,7 +74,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 70. Text Tutorial w/ Key to skip (COVID Crasher)
 71. Fade from black screen into game/game to black screen (COVID Crasher)
 73. Play explosion animation on collision/destroy (COVID Crasher)
-74. Hide/show UI on key press
 75. Escape Room Alphabet Lock
 76. Movement slowing obstacles (COVID Crasher)
 77. Outline/highlight object on mouse hover
@@ -98,5 +96,4 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 97. Auto Clicker/Cookie Clicker (COVID Crasher)
 98. PowerUps for 2D shooter: multiple spray directions  (Virus Attacks!, COVID Crasher)
 99. Widen/Narrow camera view (Space Escape, Trapped)
-100. Snare character on collision, Teleport character (Trapped)
 102. Ori and the Blind Forest Bash
