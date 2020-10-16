@@ -82,7 +82,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 79. Highlight target tile based on character orientation
 80. Arrow Buttons to go to next choice (Army of Undead character/crosshair selection)
 81. Pick up object (money/ammo) when character walks over
-82. Spawn Enemies on time interval
 84. 2D lighting (Ours and Theirs, player and enemy lighting)
 85. Power ups for 2D shooting: Extra player
 87. Change camera view color/tint (Virus Attacks!)
