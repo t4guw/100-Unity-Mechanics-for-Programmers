@@ -14,23 +14,23 @@ There are two approaches to implement background music.
 
 - The second implementation involves having the background music continue playing upon switching scenes. This would be used if you, for instance, want the same background music to continue playing once leaving the main menu. This involves attaching the following script to the newly created GameObject in order to prevent the Background Music object from destroying (stopping) itself upon loading a new scene.
 
-    using System.Collections;
-    using System.Collections.Generic;
-    using UnityEngine;
+        using System.Collections;
+        using System.Collections.Generic;
+        using UnityEngine;
 
-    public class ContinueAudio : MonoBehaviour
-    {
-        static ContinueAudio instance = null;
-        private void Awake()
+        public class ContinueAudio : MonoBehaviour
         {
-            if (instance != null)
+            static ContinueAudio instance = null;
+            private void Awake()
             {
-                Destroy(gameObject);
-            }
-            else
-            {
-                instance = this;
-                GameObject.DontDestroyOnLoad(gameObject);
+                if (instance != null)
+                {
+                    Destroy(gameObject);
+                }
+                else
+                {
+                    instance = this;
+                    GameObject.DontDestroyOnLoad(gameObject);
+                }
             }
         }
-    }
