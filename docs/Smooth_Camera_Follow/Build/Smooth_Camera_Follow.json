@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "100 Mechanics - Smooth Camera Follow",
+"dataUrl": "Smooth_Camera_Follow.data.unityweb",
+"wasmCodeUrl": "Smooth_Camera_Follow.wasm.code.unityweb",
+"wasmFrameworkUrl": "Smooth_Camera_Follow.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
