@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "100 Mechanics - Drag and Drop",
+"productName": "100 Mechanics - Drag and Drop to Corners",
 "dataUrl": "Drag_and_Drop_to_Corners.data.unityweb",
 "wasmCodeUrl": "Drag_and_Drop_to_Corners.wasm.code.unityweb",
 "wasmFrameworkUrl": "Drag_and_Drop_to_Corners.wasm.framework.unityweb",
