@@ -1,5 +1,5 @@
 # 100 Unity Mechanics for Programmers
-Building Unity mechanics structured as a set of challenges. 100 sample programs where each program demonstrates a different mechanic.
+Building Unity mechanics structured as a set of challenges. 100 sample programs where each program demonstrates a different mechanic. Visit the website for WebGL builds [here](https://t4guw.github.io/100-Unity-Mechanics-for-Programmers/)
 
 ## List of Mechanics
 1. [WASD Keys for Movement in 2D](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/wasd_movement_2d)
