@@ -8,16 +8,6 @@ public class Movement : MonoBehaviour
     {
         Vector3 pos = transform.position;
 
-        if (Input.GetKey("w"))
-        {
-            pos.y += speed * Time.deltaTime;
-        }
-
-        if (Input.GetKey("s"))
-        {
-            pos.y -= speed * Time.deltaTime;
-        }
-
         if (Input.GetKey("d"))
         {
             pos.x += speed * Time.deltaTime;
