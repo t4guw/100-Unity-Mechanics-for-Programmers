@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "100 Mechanics - Text Following Player and Hide/Show UI on Keypress",
+"dataUrl": "Text_Follow_Player_Hide_and_Show_UI_2D.data.unityweb",
+"wasmCodeUrl": "Text_Follow_Player_Hide_and_Show_UI_2D.wasm.code.unityweb",
+"wasmFrameworkUrl": "Text_Follow_Player_Hide_and_Show_UI_2D.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
