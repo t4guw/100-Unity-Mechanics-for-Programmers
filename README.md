@@ -69,31 +69,37 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 60. Object pooling
 63. 2D Sprite Outline
 65. Animation when character stands on location 
-66. Allow Character to stick to object/terrain (Grup)
+66. Allow Character to stick to object/terrain
 68. Unity Timeline (cutscene)
 69. Textbox UI element
-70. Text Tutorial w/ Key to skip (COVID Crasher)
-71. Fade from black screen into game/game to black screen (COVID Crasher)
-73. Play explosion animation on collision/destroy (COVID Crasher)
+70. Text Tutorial w/ Key to skip
+71. Fade from black screen into game/game to black screen
+73. Play explosion animation on collision/destroy
 75. Escape Room Alphabet Lock
-76. Movement slowing obstacles (COVID Crasher)
+76. Movement slowing obstacles
 77. Outline/highlight object on mouse hover
-78. Change UI when Character stands on location (Plant Ahead)
+78. Change UI when Character stands on location
 79. Highlight target tile based on character orientation
-80. Arrow Buttons to go to next choice (Army of Undead character/crosshair selection)
-81. Pick up object (money/ammo) when character walks over
-84. 2D lighting (Ours and Theirs, player and enemy lighting)
-85. Power ups for 2D shooting: Extra player
-87. Change camera view color/tint (Virus Attacks!)
-88. Enter and leave building on keypress (social distancing game)
-90. Change weapon on key press (COVID Crasher)
-91. Use items on key press (COVID Crasher)
-92. Quit application on key press/button click
-93. Bomb that destroys enemies in area/radius (COVID Crasher)
-94. Show Text UI on mouse hover (COVID Crasher item description)
-95. Shields & Immune to damage (COVID Crasher)
-96. Number Keypad (Space Escape)
-97. Auto Clicker/Cookie Clicker (COVID Crasher)
-98. PowerUps for 2D shooter: multiple spray directions  (Virus Attacks!, COVID Crasher)
-99. Widen/Narrow camera view (Space Escape, Trapped)
-102. Ori and the Blind Forest Bash
+80. Arrow Buttons to go to next choice
+80. Pick up object (money/ammo) when character walks over
+81. 2D lighting
+82. Power ups for 2D shooting: Extra player
+83. Change camera view color/tint
+84. Enter and leave building on keypress
+85. Change weapon on key press
+86. Use items on key press
+87. Quit application on key press/button click
+88. Bomb that destroys enemies in area/radius
+89. Show Text UI on mouse hover
+90. Shields & Immune to damage
+91. Number Keypad
+92. Auto Clicker/Cookie Clicker
+93. PowerUps for 2D shooter: multiple spray directions
+94. Widen/Narrow camera view over time
+95. Ori and the Blind Forest Bash
+96. Vision cone in 2D and 3D
+97. FPS Shooting in 3D
+98. Switch weapons
+99. 3D Flashlight
+100. Sprite changing on movement
+
