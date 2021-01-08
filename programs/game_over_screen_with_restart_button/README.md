@@ -11,7 +11,7 @@ There are several steps that need to be taken in the Unity Editor.
     3. Change the button text to "Restart".
     4. Set the parent image to inactive.
     5. Drag and drop the parent image into the gameOverScreen variable for the GameOver script.
-    *Anything added to the game over screen should be set as a child of the background image.*
+    * Anything added to the game over screen should be set as a child of the background image.
 
 The following code changes the bool gameOver to true when it detects a collison. It can be modified to trigger the game over screen wherever gameOver gets set to true.
 ###
