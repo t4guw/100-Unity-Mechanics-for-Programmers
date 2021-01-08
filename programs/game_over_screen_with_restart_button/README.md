@@ -23,23 +23,23 @@ The following code changes the bool gameOver to true when it detects a collison.
         public GameObject gameOverScreen;
         bool gameOver = false;
 
-    void Update()
-    {
-        if(gameOver)
+        void Update()
         {
-            gameOverScreen.SetActive(true);
+            if(gameOver)
+            {
+                gameOverScreen.SetActive(true);
+            }
         }
-    }
 
-    private void OnTriggerEnter(Collider other)
-    {
-        gameOver = true;
-    }
+        private void OnTriggerEnter(Collider other)
+        {
+            gameOver = true;
+        }
 
-    // Called when restart button is clicked
-    public void OnButtonClick()
-    {
-        SceneManager.LoadScene("Scene1");
-    }
-}
+        // Called when restart button is clicked
+        public void OnButtonClick()
+        {
+            SceneManager.LoadScene("Scene1");
+        }
+   }
 
