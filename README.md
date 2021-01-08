@@ -39,6 +39,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 35. [Change Player Speed](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/change_player_speed)
 36. [Text Follow Player & Hide/Show UI](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/text_follow_player)
 37. [Spawn Object in Random Location and Destroy on Time Interval](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/random_spawn_objects_and_destroy)
+38. [Game Over Screen with Restart Button](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/game_over_screen_with_restart_button)
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
@@ -54,7 +55,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 36. Buy Upgrade with money
 37. Change damage for weapons
 39. Change scene on key press
-40. Game over screen (restart button)
 42. Make UI Scalable to Screen Size
 43. Ability cooldown
 44. Tile Maps
