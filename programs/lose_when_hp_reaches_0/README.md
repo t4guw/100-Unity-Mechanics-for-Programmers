@@ -15,39 +15,39 @@ In the Unity Editor:
 
 The following code will cause the player to lose if their HP reaches 0 with the option to restart.
 
-using UnityEngine;
-using UnityEngine.SceneManagement;
+    using UnityEngine;
+    using UnityEngine.SceneManagement;
 
-public class Player : MonoBehaviour
-{
-    public int maxHealth = 100;
-    public int currentHealth;
-
-    public GameObject canvas;
-    public HealthBar healthBar;
-
-    private void Start()
+    public class Player : MonoBehaviour
     {
-        currentHealth = maxHealth;
-        healthBar.SetMaxHealth(maxHealth);
-    }
+        public int maxHealth = 100;
+        public int currentHealth;
 
-    private void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Space))
+        public GameObject canvas;
+        public HealthBar healthBar;
+
+        private void Start()
         {
-            currentHealth -= 15;
-            healthBar.SetHealth(currentHealth);
+            currentHealth = maxHealth;
+            healthBar.SetMaxHealth(maxHealth);
         }
-        if(currentHealth <= 0)
-        {
-            gameObject.SetActive(false);
-            canvas.SetActive(true);
-        }
-    }
 
-    public void OnButtonClick()
-    {
-        SceneManager.LoadScene("SampleScene");
+        private void Update()
+        {
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                currentHealth -= 15;
+                healthBar.SetHealth(currentHealth);
+            }
+            if(currentHealth <= 0)
+            {
+                gameObject.SetActive(false);
+                canvas.SetActive(true);
+            }
+        }
+
+        public void OnButtonClick()
+        {
+            SceneManager.LoadScene("SampleScene");
+        }
     }
-}
