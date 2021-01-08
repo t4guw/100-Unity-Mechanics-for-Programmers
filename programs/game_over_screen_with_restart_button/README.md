@@ -41,5 +41,4 @@ The following code changes the bool gameOver to true when it detects a collison.
         {
             SceneManager.LoadScene("Scene1");
         }
-   }
-
+    }
