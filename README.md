@@ -40,7 +40,8 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 36. [Text Follow Player & Hide/Show UI](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/text_follow_player)
 37. [Spawn Object in Random Location and Destroy on Time Interval](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/random_spawn_objects_and_destroy)
 38. [Game Over Screen with Restart Button](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/game_over_screen_with_restart_button)
-39. [Lose when HP Reaches 0](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/lose_when_hp_reaches_0)
+39. [Lose when HP reaches 0](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/lose_when_hp_reaches_0)
+40. [Quit Application on Key Press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/quit_application_on_key_press)
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 13. Show/hide map/popup on key press
@@ -88,7 +89,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 84. Enter and leave building on keypress
 85. Change weapon on key press
 86. Use items on key press
-87. Quit application on key press/button click
 88. Bomb that destroys enemies in area/radius
 89. Show Text UI on mouse hover
 90. Shields & Immune to damage
