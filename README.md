@@ -44,7 +44,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 40. [Quit Application on Key Press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/quit_application_on_key_press)
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
-13. Show/hide map/popup on key press
+13. [Show/hide map/popup on key press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/hide_popup_on_key_press)
 15. Sprite movement animation
 16. Sound effects (one time ex. shooting)
 24. [Main Menu](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/main_menu)
