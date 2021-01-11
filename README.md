@@ -47,7 +47,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 13. Show/hide map/popup on key press
 15. Sprite movement animation
 16. Sound effects (one time ex. shooting)
-24. Main Menu
+24. [Main Menu](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/main_menu)
 26. Change fire rate
 31. Set text to appear after delay (text sprites)
 33. Scrollable UI element
@@ -55,9 +55,9 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 35. Upgrade Shop
 36. Buy Upgrade with money
 37. Change damage for weapons
-39. Change scene on key press
+39. [Change scene on key press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/change_scene_on_key_press)
 42. Make UI Scalable to Screen Size
-43. Ability cooldown
+43. [Ability cooldown](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/ability_cooldown)
 44. Tile Maps
 45. Heads Up Display UI (HUD)
 50. Shader Graphs
