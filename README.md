@@ -46,7 +46,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 12. "Flashlight" camera view (Grup, Trapped) 
 13. [Show/hide map/popup on key press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/hide_popup_on_key_press)
 15. Sprite movement animation
-16. Sound effects (one time ex. shooting)
+16. [Sound effects (one time ex. shooting)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/sound_effect)
 24. [Main Menu](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/main_menu)
 26. Change fire rate
 31. Set text to appear after delay (text sprites)
@@ -99,7 +99,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 95. Ori and the Blind Forest Bash
 96. Vision cone in 2D and 3D
 97. FPS Shooting in 3D
-98. Switch weapons
+98. [Switch weapons] (https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/switch_weapons)
 99. 3D Flashlight
 100. Sprite changing on movement
 
