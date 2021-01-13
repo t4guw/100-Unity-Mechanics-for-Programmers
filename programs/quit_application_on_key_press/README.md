@@ -12,7 +12,7 @@ The following code shows implements the quit application when either the Q key o
     {
         void Update()
         {
-            if (Input.GetKeyDown("q") || Input.GetKeyDown(KeyCode.Escape))
+            if (Input.GetKeyDown(KeyCode.Q) || Input.GetKeyDown(KeyCode.Escape))
             {
                 Application.Quit();
             }
