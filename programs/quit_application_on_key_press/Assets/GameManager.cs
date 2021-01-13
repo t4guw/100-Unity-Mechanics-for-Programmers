@@ -4,7 +4,7 @@ public class GameManager : MonoBehaviour
 {
     void Update()
     {
-        if (Input.GetKeyDown("q") || Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Q) || Input.GetKeyDown(KeyCode.Escape))
         {
             Application.Quit();
         }
