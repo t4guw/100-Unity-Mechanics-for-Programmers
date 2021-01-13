@@ -11,78 +11,78 @@ There are several steps that need to be taken in the Unity Editor.
     3. In each empty gameObject, create whatever will be included on that page as a child.
     4. Attach the script below to the canvas and attach gameObjects to corresponding public variables.
     5. Set the size of the Pages array to the amount of pages in the tutorial and drag each page into the elements. 
+    
+    
+    using UnityEngine;
+    using UnityEngine.UI;
 
-using UnityEngine;
-using UnityEngine.UI;
-
-public class TutorialScreen : MonoBehaviour
-{
-    int pageNum = 1;
-    //Change this number to the number of desired tutorial pages
-    const int kMaxPageNum = 3;
-
-    public Text pageNumText;
-    public GameObject[] pages;
-    public GameObject previousButton;
-
-    void Start()
+    public class TutorialScreen : MonoBehaviour
     {
-        UpdatePageContent();        
-    }
+        int pageNum = 1;
+        //Change this number to the number of desired tutorial pages
+        const int kMaxPageNum = 3;
 
-    void Update()
-    {
-        if(Input.GetKeyDown(KeyCode.S))
+        public Text pageNumText;
+        public GameObject[] pages;
+        public GameObject previousButton;
+
+        void Start()
         {
-            gameObject.SetActive(false);
+            UpdatePageContent();        
         }
-    }
 
-
-    public void NextButtonClicked()
-    {
-        if (pageNum < kMaxPageNum)
+        void Update()
         {
-            pageNum++;
-        }
-        else if (pageNum == kMaxPageNum)
-        {
-            gameObject.SetActive(false);
-        }
-        UpdatePageContent();
-    }
-
-    public void PreviousButtonClicked()
-    {
-        if (pageNum > 1)
-        {
-            pageNum--;
-        }
-        UpdatePageContent();
-    }
-
-    void UpdatePageContent()
-    {
-        pageNumText.text = "Page " + pageNum + " / " + kMaxPageNum;
-        for (int i = 0; i < kMaxPageNum; i++)
-        {
-            if (i == pageNum - 1)
+            if(Input.GetKeyDown(KeyCode.S))
             {
-                pages[i].SetActive(true);
+                gameObject.SetActive(false);
+            }
+        }
+
+        public void NextButtonClicked()
+        {
+            if (pageNum < kMaxPageNum)
+            {
+                pageNum++;
+            }
+            else if (pageNum == kMaxPageNum)
+            {
+                gameObject.SetActive(false);
+            }
+            UpdatePageContent();
+        }
+
+        public void PreviousButtonClicked()
+        {
+            if (pageNum > 1)
+            {
+                pageNum--;
+            }
+            UpdatePageContent();
+        }
+
+        void UpdatePageContent()
+        {
+            pageNumText.text = "Page " + pageNum + " / " + kMaxPageNum;
+            for (int i = 0; i < kMaxPageNum; i++)
+            {
+                if (i == pageNum - 1)
+                {
+                    pages[i].SetActive(true);
+                }
+                else
+                {
+                    pages[i].SetActive(false);
+                }
+            }
+            if(pageNum == 1)
+            {
+                previousButton.SetActive(false);
             }
             else
             {
-                pages[i].SetActive(false);
+                previousButton.SetActive(true);
             }
         }
-        if(pageNum == 1)
-        {
-            previousButton.SetActive(false);
-        }
-        else
-        {
-            previousButton.SetActive(true);
-        }
     }
-}
 
