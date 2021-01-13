@@ -42,12 +42,15 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 38. [Game Over Screen with Restart Button](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/game_over_screen_with_restart_button)
 39. [Lose when HP reaches 0](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/lose_when_hp_reaches_0)
 40. [Quit Application on Key Press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/quit_application_on_key_press)
+41. [Main Menu](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/main_menu)
+42. [Change scene on key press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/change_scene_on_key_press)
+43. [Ability cooldown](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/ability_cooldown)
+44. [Show/hide map/popup on key press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/hide_popup_on_key_press)
+45. [Sound effects (one time ex. shooting)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/sound_effect)
+46. [Switch weapons](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/sound_effect)
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
-13. [Show/hide map/popup on key press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/hide_popup_on_key_press)
 15. Sprite movement animation
-16. [Sound effects (one time ex. shooting)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/sound_effect)
-24. [Main Menu](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/main_menu)
 26. Change fire rate
 31. Set text to appear after delay (text sprites)
 33. Scrollable UI element
@@ -55,9 +58,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 35. Upgrade Shop
 36. Buy Upgrade with money
 37. Change damage for weapons
-39. [Change scene on key press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/change_scene_on_key_press)
 42. Make UI Scalable to Screen Size
-43. [Ability cooldown](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/ability_cooldown)
 44. Tile Maps
 45. Heads Up Display UI (HUD)
 50. Shader Graphs
@@ -99,7 +100,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 95. Ori and the Blind Forest Bash
 96. Vision cone in 2D and 3D
 97. FPS Shooting in 3D
-98. [Switch weapons] (https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/switch_weapons)
 99. 3D Flashlight
 100. Sprite changing on movement
 
