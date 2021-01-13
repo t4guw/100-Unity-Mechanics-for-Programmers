@@ -42,7 +42,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 38. [Game Over Screen with Restart Button](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/game_over_screen_with_restart_button)
 39. [Lose when HP reaches 0](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/lose_when_hp_reaches_0)
 40. [Quit Application on Key Press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/quit_application_on_key_press)
-12. 41. [Main Menu](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/main_menu)
+41. [Main Menu](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/main_menu)
 42. [Change scene on key press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/change_scene_on_key_press)
 43. [Ability cooldown](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/ability_cooldown)
 44. [Show/hide map/popup on key press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/hide_popup_on_key_press)
