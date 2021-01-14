@@ -52,7 +52,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 15. Sprite movement animation
-26. Change fire rate
+26. [Change fire rate](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/change_firerate)
 31. Set text to appear after delay (text sprites)
 33. Scrollable UI element
 34. Draggable UI element (Map)
