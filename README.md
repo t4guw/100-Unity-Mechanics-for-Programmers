@@ -47,7 +47,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 43. [Ability cooldown](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/ability_cooldown)
 44. [Show/hide map/popup on key press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/hide_popup_on_key_press)
 45. [Sound effects (one time ex. shooting)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/sound_effect)
-46. [Switch weapons](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/sound_effect)
+46. [Switch weapons](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/switch_weapons)
 47. [Text Tutorial with Key to Skip](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/text_tutorial_with_key_to_skip)
 12. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
