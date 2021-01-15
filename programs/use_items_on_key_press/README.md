@@ -4,7 +4,8 @@
 This mechanic shows how to use an item in the inventory with a key press.
 
 ## Implementation
-To view the steps to on how to pick up items, please reference [this](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/pick_up_object_when_character_walks_over).
+To view the steps to on how to pick up items, please reference [this](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/pick_up_object_when_character_walks_over). Once the items are in the inventory, use the
+numbers at the top of the keyboard to use the item.
     
     using UnityEngine;
 
