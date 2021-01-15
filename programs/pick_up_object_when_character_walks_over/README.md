@@ -11,6 +11,7 @@ There are several steps that need to be taken in the Unity Editor.
    3. Create a prefab for the item with a collider attached.
    4. On the character object, attach a collider, rigidbody, and the following ItemInteraction script.
     
+   Once the inventory is full, objects will no longer be picked up.
     
     using UnityEngine;
 
