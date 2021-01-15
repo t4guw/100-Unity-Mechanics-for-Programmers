@@ -51,6 +51,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 47. [Text Tutorial with Key to Skip](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/text_tutorial_with_key_to_skip)
 48. [Change fire rate](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/change_firerate)
 49. [Pick Up Object When Character Walks Over](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/pick_up_object_when_character_walks_over)
+50. [Use Items On Key Press](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/use_items_on_key_press)
 49. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 15. Sprite movement animation
@@ -89,7 +90,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 83. Change camera view color/tint
 84. Enter and leave building on keypress
 85. Change weapon on key press
-86. Use items on key press
 88. Bomb that destroys enemies in area/radius
 89. Show Text UI on mouse hover
 90. Shields & Immune to damage
