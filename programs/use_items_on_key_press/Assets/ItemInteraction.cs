@@ -27,12 +27,12 @@ public class ItemInteraction : MonoBehaviour
     {
         if (inventory[inventoryIndex] == true)
         {
-            GameObject banana = Instantiate(Resources.Load("Prefab/Banana") as GameObject);
-            Debug.Log(banana);
+            GameObject bananaPeel = Instantiate(Resources.Load("Prefab/BananaPeel") as GameObject);
+            Debug.Log(bananaPeel);
             Vector3 p = this.transform.localPosition;
-            p.y += 1;
-            p.x += 1;
-            banana.transform.localPosition = p;
+            p.y -= 0.5f;
+            p.x += 0.5f;
+            bananaPeel.transform.localPosition = p;
             GameObject inventorySlot = GameObject.Find("Inventory " + inventoryIndex);
             inventorySlot.transform.GetChild(0).gameObject.SetActive(false);
             inventory[inventoryIndex] = false;
