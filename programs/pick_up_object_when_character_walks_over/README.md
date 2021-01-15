@@ -17,7 +17,7 @@ There are several steps that need to be taken in the Unity Editor.
     public class ItemInteraction : MonoBehaviour
     {
         private const int kMaxInventorySize = 3;
-	// Used to keep track of used inventory slots
+	    // Used to keep track of used inventory slots
         private bool[] inventory = new bool[kMaxInventorySize];
         private bool itemAdded = false;
 
