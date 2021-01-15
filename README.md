@@ -49,10 +49,11 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 45. [Sound effects (one time ex. shooting)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/sound_effect)
 46. [Switch weapons](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/switch_weapons)
 47. [Text Tutorial with Key to Skip](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/text_tutorial_with_key_to_skip)
-12. Number keys/mouse wheel to switch weapons
+48. [Change fire rate](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/change_firerate)
+49. [Pick Up Object When Character Walks Over](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/pick_up_object_when_character_walks_over)
+49. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 15. Sprite movement animation
-26. [Change fire rate](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/change_firerate)
 31. Set text to appear after delay (text sprites)
 33. Scrollable UI element
 34. Draggable UI element (Map)
@@ -83,7 +84,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 78. Change UI when Character stands on location
 79. Highlight target tile based on character orientation
 80. Arrow Buttons to go to next choice
-80. Pick up object (money/ammo) when character walks over
 81. 2D lighting
 82. Power ups for 2D shooting: Extra player
 83. Change camera view color/tint
