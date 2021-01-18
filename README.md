@@ -58,7 +58,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 31. Set text to appear after delay (text sprites)
 33. Scrollable UI element
 34. Draggable UI element (Map)
-35. Upgrade Shop
+35. [Upgrade Shop](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/upgrade_shop)
 36. Buy Upgrade with money
 37. Change damage for weapons
 42. Make UI Scalable to Screen Size
