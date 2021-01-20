@@ -59,7 +59,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 33. Scrollable UI element
 34. Draggable UI element (Map)
 35. [Upgrade Shop](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/upgrade_shop)
-36. Buy Upgrade with money
+36. [Buy Upgrade with money](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/purchase_upgrade_with_money)
 37. Change damage for weapons
 42. Make UI Scalable to Screen Size
 44. Tile Maps
