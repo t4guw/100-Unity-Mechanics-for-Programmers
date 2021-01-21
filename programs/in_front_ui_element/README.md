@@ -1,6 +1,6 @@
-# Draggable UI Elements
+# In Front UI Elements
 ## Description
-This mechanic shows how create ui elements that are dragable by the player.
+This mechanic shows how create ui elements that are dragable by the player and become in front of other elements.
 
 ## Implementation
 1. This implementation can potentially work with any game object.
