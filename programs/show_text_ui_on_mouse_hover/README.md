@@ -6,9 +6,9 @@ This mechanic demonstrates how to show text UI when the mouse is hovered over an
 ## Implementation
 There are several steps that need to be taken in the Unity Editor.
 
-   1. Create as many gameObjects as needed.
+   1. Create as many gameObjects as desired.
    2. Create a canvas and a text UI for each of the gameObjects.
-   3. Create a custom tag for each gameObject and the corresponding text UI.
+   3. Make a custom tag for each gameObject and the corresponding text UI.
    4. Set all the text UI to inactive.
    5. Attach the MouseHover script to each gameObject that has a corresponding text UI.
 
