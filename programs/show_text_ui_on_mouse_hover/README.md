@@ -1,7 +1,7 @@
 # Show Text UI on Mouse Hover
 
 ## Description
-This mechanic will show how to show text UI when the mouse is hovered over an object.
+This mechanic demonstrates how to show text UI when the mouse is hovered over an object.
 
 ## Implementation
 There are several steps that need to be taken in the Unity Editor.
