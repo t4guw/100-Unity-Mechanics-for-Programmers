@@ -56,6 +56,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 52. [Buy Upgrade with money](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/purchase_upgrade_with_money)
 53. [Draggable UI element (Map)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/draggable_ui_element)
 54. [Show Text UI on Mouse Hover](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/show_text_ui_on_mouse_hover)
+55. [Number Keypad](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/number_keypad)
 49. Number keys/mouse wheel to switch weapons
 12. "Flashlight" camera view (Grup, Trapped) 
 15. Sprite movement animation
@@ -93,7 +94,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 85. Change weapon on key press
 88. Bomb that destroys enemies in area/radius
 90. Shields & Immune to damage
-91. Number Keypad
 92. Auto Clicker/Cookie Clicker
 93. PowerUps for 2D shooter: multiple spray directions
 94. Widen/Narrow camera view over time
