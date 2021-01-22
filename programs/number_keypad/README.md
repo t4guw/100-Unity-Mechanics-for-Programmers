@@ -10,7 +10,7 @@ Several steps need to be taken in the Unity Editor.
    2. Create or find a free keypad image without buttons and put that in the canvas.
    3. Add 12 buttons to the canvas for 0-9, 'CLR', and 'OK' buttons.
    4. Arrange the buttons onto the empty keypad.
-   5. Set the image on each button to an image of the correct number.
+   5. Set the image on each button to an image of the correct number or word.
    6. Attach the Keypad script below to the Keypad gameobject.
    7. For buttons 0-9, set the OnClick() to call KeyPushed with the num variable being the button number.
    8. Set the OnClick() for the 'CLR' and 'OK' buttons to ClrPushed() and OkPushed(), respectively.
