@@ -8,7 +8,7 @@ public class Keypad : MonoBehaviour
   
     public void KeyPushed(int num)
     {
-        if (numberLength <= 6)
+        if (numberLength < 6)
         {
             number.text += (num + "");
             numberLength++;

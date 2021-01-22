@@ -26,7 +26,7 @@ Several steps need to be taken in the Unity Editor.
   
         public void KeyPushed(int num)
         {
-            if (numberLength <= 6)
+            if (numberLength < 6)
             {
                 number.text += (num + "");
                 numberLength++;
