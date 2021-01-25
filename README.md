@@ -57,23 +57,8 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 53. [Draggable UI element (Map)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/draggable_ui_element)
 54. [Show Text UI on Mouse Hover](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/show_text_ui_on_mouse_hover)
 55. [Number Keypad](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/number_keypad)
-49. Number keys/mouse wheel to switch weapons
-12. "Flashlight" camera view (Grup, Trapped) 
-15. Sprite movement animation
-31. Set text to appear after delay (text sprites)
-33. [Scrollable UI element](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/scrollable_ui_element)
-34. [Draggable UI element (Map)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/draggable_ui_element)
-35. [Upgrade Shop](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/upgrade_shop)
-36. [Buy Upgrade with money](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/purchase_upgrade_with_money)
-37. Change damage for weapons
-42. Make UI Scalable to Screen Size
-44. Tile Maps
-45. Heads Up Display UI (HUD)
-50. Shader Graphs
-52. Touch Controls for movement (for mobile games)
-53. Constant sound effect (car motor)
-54. Varying sound effects (change tone/pitch)
-55. Zap/Electrocute (Ours and Theirs)
+56. Varying sound effects (change tone/pitch)
+57. Zap/Electrocute (Ours and Theirs)
 58. Rebindable Keys
 59. Snap Object to tile on Tile Map
 60. Object pooling
