@@ -59,7 +59,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 55. [Number Keypad](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/number_keypad)
 56. Varying sound effects (change tone/pitch)
 57. Zap/Electrocute (Ours and Theirs)
-58. Rebindable Keys
+58. [Rebindable Keys](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/rebindable_keys)
 59. Snap Object to tile on Tile Map
 60. Object pooling
 63. 2D Sprite Outline
