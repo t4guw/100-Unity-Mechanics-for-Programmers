@@ -18,58 +18,58 @@ There are several steps that need to be taken in the Unity Editor.
    9. Add the SubmitButton() to the OnClick() for Submit Button object.
    
 
-using UnityEngine;
-using UnityEngine.UI;
+    using UnityEngine;
+    using UnityEngine.UI;
 
-public class Selection : MonoBehaviour
-{
-    public Image[] selectionArray;
-    public GameObject selectedIndicator;
-    public Camera mainCamera;
-    int currentlySelected = 0;
-
-    void Update()
+    public class Selection : MonoBehaviour
     {
-        if (Input.GetKeyDown(KeyCode.LeftArrow))
+        public Image[] selectionArray;
+        public GameObject selectedIndicator;
+        public Camera mainCamera;
+        int currentlySelected = 0;
+
+        void Update()
         {
-            BackButton();
+            if (Input.GetKeyDown(KeyCode.LeftArrow))
+            {
+                BackButton();
+            }
+
+            if (Input.GetKeyDown(KeyCode.RightArrow))
+            {
+                NextButton();
+            }
+
+            if (Input.GetKeyDown(KeyCode.Return))
+            {
+                SubmitButton();
+            }
         }
 
-        if (Input.GetKeyDown(KeyCode.RightArrow))
+        public void NextButton()
         {
-            NextButton();
+            if (currentlySelected < selectionArray.Length - 1)
+            {
+                currentlySelected++;
+                Vector3 p = selectionArray[currentlySelected].transform.localPosition;
+                p.y -= 75f;
+                selectedIndicator.transform.localPosition = p;
+            }
         }
 
-        if (Input.GetKeyDown(KeyCode.Return))
+        public void BackButton()
         {
-            SubmitButton();
+            if (currentlySelected > 0)
+            {
+                currentlySelected--;
+                Vector3 p = selectionArray[currentlySelected].transform.localPosition;
+                p.y -= 75f;
+                selectedIndicator.transform.localPosition = p;
+           }
         }
-    }
 
-    public void NextButton()
-    {
-        if (currentlySelected < selectionArray.Length - 1)
+        public void SubmitButton()
         {
-            currentlySelected++;
-            Vector3 p = selectionArray[currentlySelected].transform.localPosition;
-            p.y -= 75f;
-            selectedIndicator.transform.localPosition = p;
-        }
-    }
-
-    public void BackButton()
-    {
-        if (currentlySelected > 0)
-        {
-            currentlySelected--;
-            Vector3 p = selectionArray[currentlySelected].transform.localPosition;
-            p.y -= 75f;
-            selectedIndicator.transform.localPosition = p;
-        }
-    }
-
-    public void SubmitButton()
-    {
         mainCamera.backgroundColor = selectionArray[currentlySelected].color;
+        }
     }
-}
