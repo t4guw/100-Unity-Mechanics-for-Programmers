@@ -19,11 +19,6 @@ public class Selection : MonoBehaviour
         {
             NextButton();
         }
-
-        if (Input.GetKeyDown(KeyCode.Return))
-        {
-            SubmitButton();
-        }
     }
 
     public void NextButton()
