@@ -57,9 +57,12 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 53. [Draggable UI element (Map)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/draggable_ui_element)
 54. [Show Text UI on Mouse Hover](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/show_text_ui_on_mouse_hover)
 55. [Number Keypad](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/number_keypad)
-56. [Varying sound effects (change tone/pitch)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/varying_sound_effects)
+56. [Rebindable Keys](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/rebindable_keys)
+57. [Varying sound effects (change tone/pitch)](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/varying_sound_effects)
+58. [Outline/highlight object on mouse hover](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/highlight_object_on_mouse_hover)
+59. [Bomb that Destroys Enemies in Radius](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/bomb_that_destroys_enemies_in_radius)
+60. [Arrow Buttons to Make a Choice](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/arrow_buttons_to_make_a_choice)
 57. Zap/Electrocute (Ours and Theirs)
-58. [Rebindable Keys](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/rebindable_keys)
 59. Snap Object to tile on Tile Map
 60. Object pooling
 63. 2D Sprite Outline
@@ -71,16 +74,13 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 73. Play explosion animation on collision/destroy
 75. Escape Room Alphabet Lock
 76. Movement slowing obstacles
-77. [Outline/highlight object on mouse hover](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/highlight_object_on_mouse_hover)
 78. Change UI when Character stands on location
 79. Highlight target tile based on character orientation
-80. Arrow Buttons to go to next choice
 81. 2D lighting
 82. Power ups for 2D shooting: Extra player
 83. Change camera view color/tint
 84. Enter and leave building on keypress
 85. Change weapon on key press
-88. Bomb that destroys enemies in area/radius
 90. Shields & Immune to damage
 92. Auto Clicker/Cookie Clicker
 93. PowerUps for 2D shooter: multiple spray directions
