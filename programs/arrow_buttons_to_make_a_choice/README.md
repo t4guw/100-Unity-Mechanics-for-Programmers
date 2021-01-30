@@ -70,6 +70,6 @@ There are several steps that need to be taken in the Unity Editor.
 
         public void SubmitButton()
         {
-        mainCamera.backgroundColor = selectionArray[currentlySelected].color;
+            mainCamera.backgroundColor = selectionArray[currentlySelected].color;
         }
     }
