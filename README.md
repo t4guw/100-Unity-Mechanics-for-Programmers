@@ -71,7 +71,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 73. Play explosion animation on collision/destroy
 75. Escape Room Alphabet Lock
 76. Movement slowing obstacles
-77. Outline/highlight object on mouse hover
+77. [Outline/highlight object on mouse hover](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/highlight_object_on_mouse_hover)
 78. Change UI when Character stands on location
 79. Highlight target tile based on character orientation
 80. Arrow Buttons to go to next choice
