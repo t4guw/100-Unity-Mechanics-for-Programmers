@@ -1568,5 +1568,5 @@ MonoBehaviour:
   - {fileID: 651522662}
   - {fileID: 726951168}
   - {fileID: 840192112}
-  selectedIndicator: {fileID: 0}
+  selectedIndicator: {fileID: 1988286661}
   mainCamera: {fileID: 519420031}
