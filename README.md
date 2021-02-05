@@ -64,7 +64,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 60. [Arrow Buttons to Make a Choice](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/arrow_buttons_to_make_a_choice)
 57. Zap/Electrocute (Ours and Theirs)
 59. Snap Object to tile on Tile Map
-60. Object pooling
+60. [Snake](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/snake)
 63. 2D Sprite Outline
 65. Animation when character stands on location 
 66. Allow Character to stick to object/terrain
@@ -72,7 +72,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 69. Textbox UI element
 71. Fade from black screen into game/game to black screen
 73. Play explosion animation on collision/destroy
-75. Escape Room Alphabet Lock
+75. [Escape Room Alphabet Lock](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/escape_room_alphabet_lock)
 76. Movement slowing obstacles
 78. Change UI when Character stands on location
 79. Highlight target tile based on character orientation
