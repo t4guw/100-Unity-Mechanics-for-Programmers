@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "100 Mechanics - Scene Transitions",
+"dataUrl": "Scene_Transitions_and_Screen_Tint.data.unityweb",
+"wasmCodeUrl": "Scene_Transitions_and_Screen_Tint.wasm.code.unityweb",
+"wasmFrameworkUrl": "Scene_Transitions_and_Screen_Tint.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

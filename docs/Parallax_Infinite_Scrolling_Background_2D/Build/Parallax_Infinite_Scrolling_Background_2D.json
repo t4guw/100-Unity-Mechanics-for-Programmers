@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "100 Mechanics - Parallax Infinite Scrolling Background 2D",
+"dataUrl": "Parallax_Infinite_Scrolling_Background_2D.data.unityweb",
+"wasmCodeUrl": "Parallax_Infinite_Scrolling_Background_2D.wasm.code.unityweb",
+"wasmFrameworkUrl": "Parallax_Infinite_Scrolling_Background_2D.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

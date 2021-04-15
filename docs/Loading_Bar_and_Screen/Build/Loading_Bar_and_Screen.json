@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "100 Mechanics - Loading Bar and Screen",
+"dataUrl": "Loading_Bar_and_Screen.data.unityweb",
+"wasmCodeUrl": "Loading_Bar_and_Screen.wasm.code.unityweb",
+"wasmFrameworkUrl": "Loading_Bar_and_Screen.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

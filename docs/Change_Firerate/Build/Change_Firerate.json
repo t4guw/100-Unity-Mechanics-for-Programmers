@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Change_Firerate",
+"dataUrl": "Change_Firerate.data.unityweb",
+"wasmCodeUrl": "Change_Firerate.wasm.code.unityweb",
+"wasmFrameworkUrl": "Change_Firerate.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}

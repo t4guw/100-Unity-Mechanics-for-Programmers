@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Line Drawing",
+"dataUrl": "Line_Drawing.data.unityweb",
+"wasmCodeUrl": "Line_Drawing.wasm.code.unityweb",
+"wasmFrameworkUrl": "Line_Drawing.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

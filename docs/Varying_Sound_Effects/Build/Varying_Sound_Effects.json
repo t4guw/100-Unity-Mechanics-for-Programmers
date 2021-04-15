@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Varying Sound Effects",
+"dataUrl": "Varying_Sound_Effects.data.unityweb",
+"wasmCodeUrl": "Varying_Sound_Effects.wasm.code.unityweb",
+"wasmFrameworkUrl": "Varying_Sound_Effects.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}

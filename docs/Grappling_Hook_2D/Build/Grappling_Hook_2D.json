@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "100 Mechanics - Grappling Hook 2D",
+"dataUrl": "Grappling_Hook_2D.data.unityweb",
+"wasmCodeUrl": "Grappling_Hook_2D.wasm.code.unityweb",
+"wasmFrameworkUrl": "Grappling_Hook_2D.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
