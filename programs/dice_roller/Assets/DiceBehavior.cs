@@ -2,8 +2,9 @@
 
 public class DiceBehavior : MonoBehaviour
 {
-    static Rigidbody rb;
-    public static Vector3 diceVelocity;
+    public Vector3 rollDicePos;
+    Rigidbody rb;
+    public Vector3 diceVelocity;
 
     void Start()
     {
@@ -13,15 +14,15 @@ public class DiceBehavior : MonoBehaviour
     void Update()
     {
         diceVelocity = rb.velocity;
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
+        if (Input.GetKeyDown(KeyCode.R))
+        {            
             rb.velocity = Vector3.zero;
 
             float dirX = Random.Range(0, 500);
             float dirY = Random.Range(0, 500);
             float dirZ = Random.Range(0, 500);
 
-            transform.position = new Vector3(-7, 5, 0);
+            transform.position = rollDicePos;
             transform.rotation = Quaternion.identity;
             rb.AddForce(transform.up * 500);
             rb.AddForce(transform.right * 500);
