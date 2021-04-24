@@ -91,4 +91,6 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 86. [Open Chest](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/open_chest)
 87. [Player Turns](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/player_turns)
 88. [Dice Roller](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/dice_roller)
-
+89. [3D Flashlight](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/3d_flashlight)
+90. [First Person & Third Person POV](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/first_person_and_third_person_pov)
+91. [Wheel Spinner](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/wheel_spinner)
