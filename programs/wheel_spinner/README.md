@@ -16,3 +16,75 @@ There are several steps that need to be taken in the Unity Editor.
    8. Attach the SectionScript to each of the sections.
    9. Create a button to allow the user to spin the wheel.
    10. Put the SpinWheel() function in the OnClick() for the button.
+
+    using UnityEngine;
+    using UnityEngine.UI;
+
+    public class WheelScript : MonoBehaviour
+    {
+        public Text selectedText;
+        bool spinning = false;
+        float spinSpeed;
+
+        void Update()
+        {
+            if (spinning)
+            {
+                transform.Rotate(0, 0, spinSpeed);
+                if (spinSpeed < 1f)
+                {
+                    spinSpeed -= 0.001f;
+                }
+                else
+                {
+                    spinSpeed -= 0.01f;
+                }
+                if (spinSpeed < 0)
+                {
+                    spinSpeed = 0;
+                    spinning = false;
+                }
+            }
+        }
+
+        public void SpinWheel()
+        {
+            spinSpeed = Random.Range(4f, 8f);
+            spinning = true;
+        }
+    }
+
+##
+
+    using UnityEngine;
+    using UnityEngine.UI;
+
+    public class SectionScript : MonoBehaviour
+    {
+        Color originalColor;
+        SpriteRenderer sRenderer;
+        Text prizeText;
+
+        private void OnDisable()
+        {
+            sRenderer.material.color = originalColor;
+        }
+
+        void Start()
+        {
+            sRenderer = GetComponent<SpriteRenderer>();
+            originalColor = sRenderer.material.color;
+            prizeText = GameObject.Find("Prize Text").GetComponent<Text>();
+        }
+
+        void OnTriggerStay2D(Collider2D collision)
+        {
+            sRenderer.material.color = Color.green;
+            prizeText.text = "Prize: " + gameObject.transform.GetChild(0).name;
+        }
+
+        void OnTriggerExit2D(Collider2D collision)
+        {
+            sRenderer.material.color = originalColor;
+        }
+    }
