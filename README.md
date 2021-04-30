@@ -94,3 +94,5 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 89. [3D Flashlight](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/3d_flashlight)
 90. [First Person & Third Person POV](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/first_person_and_third_person_pov)
 91. [Wheel Spinner](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/wheel_spinner)
+92. [Missions](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/missions)
+93. [Camera Panning](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/camera_panning)
