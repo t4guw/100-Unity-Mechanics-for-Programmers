@@ -98,3 +98,4 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 94. [Camera Panning](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/camera_panning)
 95. [Sleep to Skip Time](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/sleep_to_skip_time)
 96. [Map Waypoints](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/map_waypoints)
+97. [Drop Items When Killed](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/drop_items_when_killed)
