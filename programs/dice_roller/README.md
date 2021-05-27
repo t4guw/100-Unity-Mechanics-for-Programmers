@@ -1,7 +1,7 @@
 # Dice Roller
 
 ## Description
-This mechanic shows an implementation of rolling of 1-5 dice.
+This mechanic shows an implementation of rolling up to 5 dice.
 
 ## Implementation
 There are several steps that need to be taken in the Unity Editor.
