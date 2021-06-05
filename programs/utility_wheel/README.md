@@ -14,9 +14,9 @@ There are several steps that need to be taken in the Unity Editor.
    6. Create a UI text to show the selected tool.
    7. Create another UI text for each wheel you created to indicate the currently selected wheel.
    8. Set the previous UI texts made in step 7 as children of an empty gameObject.
-   7. Attach the following Utility script to each section object.
-   8. Attach the following GameManager script to the Canvas.
-   9. Drag the corresponding variables to the public variables of GameManager and set both array sizes to the number of wheels.
+   9. Attach the following Utility script to each section object.
+   10. Attach the following GameManager script to the Canvas.
+   11. Drag the corresponding variables to the public variables of GameManager and set both array sizes to the number of wheels.
     
   
     
