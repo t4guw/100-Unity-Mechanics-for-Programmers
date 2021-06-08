@@ -100,3 +100,5 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 96. [Map Waypoints](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/map_waypoints)
 97. [Drop Items When Killed](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/drop_items_when_killed)
 98. [Hunger Meter](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/hunger_meter)
+99. [Gravity Changer](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/gravity_changer)
+100. [Manipulate Object Size](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/manipulate_object_size)
