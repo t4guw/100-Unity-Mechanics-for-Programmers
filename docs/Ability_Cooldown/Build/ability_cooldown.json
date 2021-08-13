@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Ability Cooldown",
+"dataUrl": "ability_cooldown.data.unityweb",
+"wasmCodeUrl": "ability_cooldown.wasm.code.unityweb",
+"wasmFrameworkUrl": "ability_cooldown.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}

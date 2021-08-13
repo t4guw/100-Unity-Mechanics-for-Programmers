@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Show hide map popup on key press",
+"dataUrl": "Hide_Popup_On_Key_Press.data.unityweb",
+"wasmCodeUrl": "Hide_Popup_On_Key_Press.wasm.code.unityweb",
+"wasmFrameworkUrl": "Hide_Popup_On_Key_Press.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}

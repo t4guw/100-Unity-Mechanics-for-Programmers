@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Movement Slowing Obstacles",
+"dataUrl": "Movement_Slowing_Obstacles.data.unityweb",
+"wasmCodeUrl": "Movement_Slowing_Obstacles.wasm.code.unityweb",
+"wasmFrameworkUrl": "Movement_Slowing_Obstacles.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

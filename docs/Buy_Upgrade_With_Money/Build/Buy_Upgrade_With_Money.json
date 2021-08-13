@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Buy Upgrade With Money",
+"dataUrl": "Buy_Upgrade_With_Money.data.unityweb",
+"wasmCodeUrl": "Buy_Upgrade_With_Money.wasm.code.unityweb",
+"wasmFrameworkUrl": "Buy_Upgrade_With_Money.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
